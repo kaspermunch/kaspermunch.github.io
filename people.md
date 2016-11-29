@@ -49,7 +49,7 @@ I am a postdoc working on the Wellcome-Trust funded project: “Building a platf
 
 ## Clare Bycroft:
 
-<span class="image right"><img src="images/Clare.jpg" /></span>
+<span class="image right"><img src="images/clare.jpg" /></span>
 
 I am a DPhil student interested in shedding light on demographic history by studying patterns of genetic variation. The Iberian Peninsula has undergone a complex history of population isolation, migrations and invasions from other regions, such as North Africa and parts of Europe. I am applying powerful haplotype-based statistical methods to detect and explain the population genetic structure of Spain. Characterising and quantifying the genetic impact of demographic events involving populations from outside of the Peninsula is also a key focus of my research. The Iberian Peninsula provides a unique opportunity to test new admixture models in a setting which involves complex admixture events among relatively closely-related populations.
 
