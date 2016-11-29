@@ -102,6 +102,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		line-height: 1em;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
 		text-transform: uppercase;
+		clear: both;
 
 		a {
 			color: inherit;
