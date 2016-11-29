@@ -15,7 +15,7 @@ layout: landing
 <div class="inner">
 <header class="major">
 <h2>The Team</h2>
-<p>We are a diverse group of people at the university of Oxford etc. <a href="people.html">Link to people page</a></p>
+<p>We are a diverse group of postdoctoral researchers and DPhil students lead by Professor Simon Myers at the University of Oxford. <a href="people.html">Find out more about our research interests and backgrounds.</a></p>
 </header>
 </div>
 </section>
@@ -23,9 +23,9 @@ layout: landing
 <!-- Two -->
 <section id="two" class="wrapper alt style2">
 <section class="spotlight">
-<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+<div class="image"><img src="images/pic01.jpg" /></div><div class="content">
 <h2>Software</h2>
-We produce software. <a href="software.html">Check it out here</a>
+Our research often results in new statistical and computational methods which we implement as software and make avaliable for academic use. <a href="software.html">Read more about our software here</a>.
 </div>
 </section>
 </section>
@@ -39,12 +39,12 @@ We produce software. <a href="software.html">Check it out here</a>
 </header>
 <ul class="features">
 <li class="icon fa-paper-plane-o">
-<h3>Paper 1</h3>
-<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+<h3>Genotype Imputation</h3>
+We recently published "Rapid genotype imputation from sequence without reference panels" in <a href="http://doi.org/10.1038/ng.3594">Nature Genetics</a>.
 </li>
 <li class="icon fa-laptop">
-<h3>Paper 2</h3>
-<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
+<h3>Re-engineering PRDM9</h3>
+Our paper "Re-engineering the zinc fingers of PRDM9 reverses hybrid sterility in mice" was published in <a href="http://doi.org/10.1038/nature16931">Nature</a> earlier this year.
 </li>
 </ul>
 </div>
@@ -58,6 +58,7 @@ We produce software. <a href="software.html">Check it out here</a>
 <p>Keep up to date with the latest news relating to our group</p>
 </header>
 <ul class="actions vertical">
+<li></li>
 <li><a href="news.html" class="button fit">View News</a></li>
 </ul>
 </div>
