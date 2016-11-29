@@ -23,16 +23,28 @@ Monday 12th September – Wednesday 14th September 2016
 Organisers: Jonathan Marchini, University of Oxford, UK; Simon Myers, University of Oxford, UK; Jotun Hein, University of Oxford, UK; Peter Ralph, University of South California, USA
 
 ## 11 February 2016.
+
+<span class="image left"><img src="images/humanizing_prdm9.jpg" /></span>
+
 A study by a team including 5 members of the Myers Group has published a paper in [Nature](http://www.nature.com/nature/journal/v530/n7589/full/nature16931.html) that shows the role the PRDM9 gene plays in speciation. This was achieved by completely restoring fertility in normally infertile hybrids of two mouse subsepecies, by the insertion of a human equivalent of the PRDM9 gene.
 
 ## 16 November 2015.
 Robbie is writing up his DPhil thesis and has found employment! He will be working with [Genomics plc](http://www.genomicsplc.com/) in Oxford as a Statistical Bioinformatician / Geneticist.
 
 ## 15 July 2015.
+
+<span class="image left"><img src="images/image5.jpg" /></span>
+
 We had burgers and a few beers to mark the departure of Nick this week. Nick is off to do a second PhD in Bioengineering at UC Berkeley.
 
 ## March 2015.
+
+<span class="image left"><img src="images/pobi-map.jpeg" /></span>
+
 The People of the British Isles paper appeared in [Nature](http://www.nature.com/nature/journal/v519/n7543/full/nature14230.html). This paper leverages some of the recent work done by the Myers group and “shows that subtle variations in the genetic make-up of modern Britons reflect the history of their islands’ colonisation by peoples from mainland Europe since the last Ice Age.” (credit: Wellcome Trust Centre for Human Genetics)
 
 ## February 2014.
+
+<span class="image left"><img src="images/feb14.png" /></span>
+
 “A genetic atlas of human admixture history” appeared in [Science](http://www.sciencemag.org/content/343/6172/747). In this study, which attracted considerable press attention, we developed and applied to a large dataset of 1500 individuals from 94 populations, a model-based approach to identify, and date, mixing events among human populations. The work is the first to describe, in detail, how the DNA of most humans is affected by such events, and discovers impacts on our DNA of recorded historical events, e.g. the Mongol empire.
