@@ -49,3 +49,16 @@ We produce software. <a href="software.html">Check it out here</a>
 </ul>
 </div>
 </section>
+
+<!-- CTA -->
+<section id="cta" class="wrapper style4">
+<div class="inner">
+<header>
+<h2>News</h2>
+<p>Keep up to date with the latest news relating to our group</p>
+</header>
+<ul class="actions vertical">
+<li><a href="news.html" class="button fit">View News</a></li>
+</ul>
+</div>
+</section>
