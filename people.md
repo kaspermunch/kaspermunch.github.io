@@ -10,8 +10,7 @@ Our group is based jointly at the Department of Statistics, and the Wellcome Tru
 
 [CV](http://www.stats.ox.ac.uk/~myers/CV.docx) - 
 [ORCID Profile](http://orcid.org/0000-0002-2585-9626) - 
-[myers@stats.ox.ac.uk](mailto:myers@stats.ox.ac.uk)  
-<br/>
+[myers@stats.ox.ac.uk](mailto:myers@stats.ox.ac.uk)
 
 ## [Dr. Michael Salter-Townshend:](https://sites.google.com/site/mikesaltertownshend/)
 
