@@ -25,7 +25,7 @@ layout: landing
 <section class="spotlight">
 <div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
 <h2>Software</h2>
-<p>We produce software. [Check it out here](software.html)</p>
+We produce software. [Check it out here](software.html)
 </div>
 </section>
 </section>
