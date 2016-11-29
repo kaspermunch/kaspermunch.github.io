@@ -5,3 +5,37 @@ title: Software
 ## [HapMix](http://www.stats.ox.ac.uk/~myers/HapmixReleasev2/)
 [Price et al. 2009](http://genetics.med.harvard.edu/reich/Reich_Lab/Software_files/2009_PLoSGenetics_Price_HAPMIX.pdf) uses genotyping data from SNP arrays to infer chromosomal segments of distinct continental ancestry in admixed populations. Source code is being maintained on the Alkes Price lab website and can be downloaded [here](http://www.hsph.harvard.edu/alkes-price/software/)
 Write to Simon Myers if you have scientific questions and to Mengyao Zhao if you have questions about the software
+
+## [fineSTRUCTURE:](http://www.maths.bris.ac.uk/~madjl/finestructure/finestructure_info.html)
+
+fineSTRUCTURE and the accompanying ChromoPainter are software applications that utilise dense genetic variation datasets of SNP markers, to explore ancestry relationships among individuals, and to perform Bayesian model-based clustering of individuals into genetically similar populations. The method is suitable for sequencing-based or genotyping array data. This approach has greater fine-scale resolution (e.g. finding structure within countries or continents) than previous algorithms. For details, accompanying manuscript and to download the software, visit [paintmychromosomes.com](http://www.paintmychromosomes.com/).
+
+## [GLOBETROTTER:](http://www.maths.bris.ac.uk/~madjl/finestructure/globetrotter.html)
+
+GLOBETROTTER is an R program, originally described in Hellenthal et al (2014), that can identify, date and describe admixture events occurring in the ancestral history of a given target population within the last ~4,500 years.
+
+Unlike similar programs, it requires no a priori specification of surrogates for the original sources involved in the admixture event(s) in the ancestry of the target population. Instead you provide GLOBETROTTER with DNA information (as summarized by companion program CHROMOPAINTERv2) on multiple sampled groups (or “surrogates”) that may or may not be related to ancestral sources of the target population. GLOBETROTTER then uses these sampled groups to identify whether the target population descends from any admixture event(s), and – if so – it determines precisely when the event(s) occurred and the admixing source groups involved. To describe each original admixing source, GLOBETROTTER provides our “best-guess” of the single sampled surrogate group that genetically best represents the admixing source, but also represents the admixing source as a mixture of the the DNA of all sampled surrogate groups (often many of which are inferred not to contribute to the mixture at all), allowing for a richer characterization and subsequent interpretation.
+
+## [RecMin:](http://www.stats.ox.ac.uk/~myers/RecMin.html)
+
+Under certain assumptions the pattern of diversity at a collection of linked sites provides information allowing us to detect historic recombination events. The program RecMin.c calculates a lower bound on the number of recombination events required to construct any history of a sample, under the assumption that each segregating site has mutated only once since the most recent common ancestor of the sample. Such a lower bound is appropriate, since many historical recombinations are typically undetectable. It gives a measure of what extent the sample history differs from a simple tree structure, and can show if there is regional clustering of the detectable recombinations.
+
+## [STITCH:](http://www.well.ox.ac.uk/~rwdavies/stitch.html)
+
+STITCH is an R program for reference panel free, read aware, low coverage sequencing genotype imputation. STITCH runs on a set of samples with sequencing reads in BAM format, as well as a list of positions to genotype, and outputs imputed genotypes in VCF format.
+
+STITCH works by modelling each chromosome in the set of samples as a mosaic of K unknown founders or ancestral haplotypes. STITCH employs a hidden Markov model, whose parameters are sequentially updated using expectation maximization. Both steps are handled in a read aware fashion done without using external reference haplotype sets.
+
+Contact Robbie Davies
+
+
+## Motif Finder:
+
+Nearing release; expected December 2015.
+
+Contact Robbie Davies.
+
+ 
+## [Genetic maps (human recombination rates):](http://www.well.ox.ac.uk/~anjali/AAmap/)
+
+Provides additional material associated with “Hinch et al. The landscape of recombination in African Americans. Nature” available [here](http://www.nature.com/nature/journal/v476/n7359/abs/nature10336.html?lang=en).
