@@ -38,11 +38,11 @@ Our research often results in new statistical and computational methods which we
 <p>Check out our full publication list <a href="publications.html">here</a></p>
 </header>
 <ul class="features">
-<li class="icon fa-paper-plane-o">
+<li class="icon fa-newspaper-o">
 <h3>Genotype Imputation</h3>
 We recently published "Rapid genotype imputation from sequence without reference panels" in <a href="http://doi.org/10.1038/ng.3594">Nature Genetics</a>.
 </li>
-<li class="icon fa-laptop">
+<li class="icon fa-newspaper-o">
 <h3>Re-engineering PRDM9</h3>
 Our paper "Re-engineering the zinc fingers of PRDM9 reverses hybrid sterility in mice" was published in <a href="http://doi.org/10.1038/nature16931">Nature</a> earlier this year.
 </li>
