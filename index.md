@@ -14,8 +14,8 @@ layout: landing
 <section id="one" class="wrapper style1 special">
 <div class="inner">
 <header class="major">
-<h2>Professor Simon Myers</h2>
-<p>Description of Simon here. [Link to people page](people.html)</p>
+<h2>The Team</h2>
+<p>We are a diverse group of people at the university of Oxford etc. <a href="people.html">Link to people page</a></p>
 </header>
 </div>
 </section>
@@ -25,7 +25,7 @@ layout: landing
 <section class="spotlight">
 <div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
 <h2>Software</h2>
-We produce software. [Check it out here](software.html)
+We produce software. <a href="software.html">Check it out here</a>
 </div>
 </section>
 </section>
@@ -35,7 +35,7 @@ We produce software. [Check it out here](software.html)
 <div class="inner">
 <header class="major">
 <h2>Publications</h2>
-<p>Check out our full publication list [here](publications.html)</p>
+<p>Check out our full publication list <a href="publications.html">here</a></p>
 </header>
 <ul class="features">
 <li class="icon fa-paper-plane-o">
