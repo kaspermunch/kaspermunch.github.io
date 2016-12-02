@@ -57,9 +57,17 @@ CEPHi provides genealogical trees, using which we can directly observe region-sp
 
 [anna.frangou@dtc.ox.ac.uk](mailto:anna.frangou@dtc.ox.ac.uk)
 
+## Yunli Song:
+
+<span class="image left"><img src="images/Yunli.jpg" /></span>
+
+I am a DPhil student working on the detection and genotyping of variable minisatellites from high-throughput sequencing data. A minisatellite region consists of tandem repeats that range in length from 10 to over 100 bp. Hypermutable minisatellites have been shown to exist at the locations of recombination hotspots, but in general the extent to which other minisatellite harbour variation is not well characterized. We aim to find novel variation, and identify the drivers of minisatellite instability.
+
+[yunli.song@stats.ox.ac.uk](mailto:yunli.song@stats.ox.ac.uk)
+
 ## Clare Bycroft:
 
-<span class="image left"><img src="images/clare.jpg" /></span>
+<span class="image right"><img src="images/clare.jpg" /></span>
 
 I am a DPhil student interested in shedding light on demographic history by studying patterns of genetic variation. The Iberian Peninsula has undergone a complex history of population isolation, migrations and invasions from other regions, such as North Africa and parts of Europe. I am applying powerful haplotype-based statistical methods to detect and explain the population genetic structure of Spain. Characterising and quantifying the genetic impact of demographic events involving populations from outside of the Peninsula is also a key focus of my research. The Iberian Peninsula provides a unique opportunity to test new admixture models in a setting which involves complex admixture events among relatively closely-related populations.
 
@@ -68,7 +76,7 @@ I am a DPhil student interested in shedding light on demographic history by stud
 
 ## [Daniel Wells:](http://www.danielwells.me)
 
-<span class="image right"><img src="images/daniel_wells.jpg" /></span>
+<span class="image left"><img src="images/daniel_wells.jpg" /></span>
 
 I am a DPhil student investigating patterns of gene expression in meiosis. This process is a type of cell division which produces sperm and egg cells and is critical to the evolution, fertility, and speciation of sexually reproducing organisms. Resolving the full gene expression profile of meiosis should help to identify the genes involved in meiosis and thence the mechanisms and regulatory processes.
 
@@ -79,7 +87,7 @@ Previously I completed an integrated masters degree in biochemistry at the Unive
 
 ## [Christopher C. Gill:](http://www.stats.ox.ac.uk/~gill/)
 
-<span class="image left"><img src="images/gill.jpg" /></span>
+<span class="image right"><img src="images/gill.jpg" /></span>
 
 I am working with the ancestry company [LivingDNA](https://www.livingdna.com/). This is part of the Systems Approaches to Biomedical Sciences ([SABS](http://www.sabsidc.ox.ac.uk/)) doctoral program. I am currently interested in developing statistical tools and pipelines to provide new insights into genetic ancestry estimation.
 
@@ -89,7 +97,7 @@ Having completed my degree in 2006, covering a wide range of mathematical topics
 
 ## [Leo Speidel:](https://leospeidel.wordpress.com/)
 
-<span class="image right"><img src="images/leo.jpg" /></span>
+<span class="image left"><img src="images/leo.jpg" /></span>
 
 I am a DPhil student working on inference of most-recent common ancestor (MRCA) relationships between DNA sequences (genealogy). Humans have 22 homologous pairs of chromosomes; each pair consists of one maternally and one paternally inherited chromosome. When DNA is passed on to an offspring, homologous chromosomes of a parent can undergo recombination. In this process, a single new chromosome is formed inheriting DNA of both homologous chromosomes. Ancestry may differ for each homologous chromosome and MRCA relationships may therefore change along the newly formed chromosome. We are developing a method that infers a sequence of (rooted) binary trees, where each tree specifies genealogy of a subregion on the chromosome.
 
