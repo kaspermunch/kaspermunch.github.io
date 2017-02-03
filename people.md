@@ -104,3 +104,39 @@ I am a DPhil student working on inference of most-recent common ancestor (MRCA) 
 I studied Mathematics at the LMU Munich and did a masters in Mathematical Informatics at the University of Tokyo. I am also interested in networks/graphs and dynamical systems on top of them, such as epidemic models.
 
 [leo.speidel@outlook.com](mailto:leo.speidel@outlook.com)
+
+# Alumni
+
+##Nick Altemose:
+
+<span class="image right"><img src="images/nick.jpg" /></span>
+
+I grew up in California and studied computational Biology at Duke University before doing my DPhil in the Myers group at Oxford. My DPhil project involved applying experimental and computational methods to characterize the catalytic and DNA-binding properties of PRDM9, a rapidly evolving meiotic protein that determines the locations of recombination hotspots in the human genome and influences genome evolution, fertility, and speciation. Now I’m pursuing a second PhD, this time in Bioengineering, at UC Berkeley.
+
+##Thaddeus Aid:
+
+<span class="image left"><img src="images/thaddeus.jpg" /></span>
+
+I am an MPhil student working on identifying evidence of human mutations influenced by natural selection, by building genealogical trees genome-wide for a set of groups sequenced as part of the 1000 genomes project.
+
+##Marie Forest:
+
+“Simultaneous estimation of population size changes and splits times using importance sampling” (2011-2014)
+
+##[Afidalina Tumian](https://twitter.com/drafidalina):
+
+<span class="image right"><img src="images/afidalina.png" /></span>
+
+“The Evolution of Recombination Hotspots and Their Relationship with DNA Sequences” (2008-2012) Now Assistant Professor at International Islamic University Malaysia.
+
+##[Nudrat Noor](http://projects.iq.harvard.edu/james-toddlab/people/nudrat-noor-ms-phd):
+
+<span class="image left"><img src="images/nudrat.png" /></span>
+
+“Molecular Mechanisms of Recombination Hotspots in Humans” (2010-2013) Now a Postdoctoral Fellow at Harvard T.H. Chan School of Public Health.
+
+##[Anjali Gupta Hinch:](http://www.well.ox.ac.uk/anjali-gupta-hinch):
+
+<span class="image right"><img src="images/anjali.jpeg" /></span>
+
+“The landscape of recombination in African Americans : leveraging human population variation to investigate homologous recombination” (2010-2013) Now a post-doc in Prof. Peter Donnelly's group
