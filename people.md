@@ -105,7 +105,7 @@ I studied Mathematics at the LMU Munich and did a masters in Mathematical Inform
 
 [leo.speidel@outlook.com](mailto:leo.speidel@outlook.com)
 
-# Alumni
+## Alumni
 
 ## Nick Altemose:
 
