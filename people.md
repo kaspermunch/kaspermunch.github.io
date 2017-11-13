@@ -123,19 +123,19 @@ I am an MPhil student working on identifying evidence of human mutations influen
 
 “Simultaneous estimation of population size changes and splits times using importance sampling” (2011-2014)
 
-## [Afidalina Tumian](https://twitter.com/drafidalina):
+## [Afidalina Tumian:](https://twitter.com/drafidalina)
 
 <span class="image right"><img src="images/afidalina.png" /></span>
 
 “The Evolution of Recombination Hotspots and Their Relationship with DNA Sequences” (2008-2012) Now Assistant Professor at International Islamic University Malaysia.
 
-## [Nudrat Noor](http://projects.iq.harvard.edu/james-toddlab/people/nudrat-noor-ms-phd):
+## [Nudrat Noor:](http://projects.iq.harvard.edu/james-toddlab/people/nudrat-noor-ms-phd)
 
 <span class="image left"><img src="images/nudrat.png" /></span>
 
 “Molecular Mechanisms of Recombination Hotspots in Humans” (2010-2013) Now a Postdoctoral Fellow at Harvard T.H. Chan School of Public Health.
 
-## [Anjali Gupta Hinch:](http://www.well.ox.ac.uk/anjali-gupta-hinch):
+## [Anjali Gupta Hinch:](http://www.well.ox.ac.uk/anjali-gupta-hinch)
 
 <span class="image right"><img src="images/anjali.jpeg" /></span>
 
