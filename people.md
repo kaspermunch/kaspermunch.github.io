@@ -42,7 +42,7 @@ I am a postdoc working on the Wellcome-Trust funded project: “Building a platf
 
 ## [Dr Sile Hu:](http://users.ox.ac.uk/~stat0311/)
 
-<span class="image right"><img src="images/sile_hu.jpeg" /></span>
+<span class="image right"><img src="images/sile_hu.jpg" /></span>
 
 I am a postdoc working on “Building a platform for genetic inference from the Genomics England data”. I am co-supervised by Prof. Jonathan Marchini and Dr Garrett Hellenthal.
 
