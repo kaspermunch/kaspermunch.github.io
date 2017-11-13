@@ -2,11 +2,17 @@
 layout: page
 title: Publications
 ---
-Below is a list of some of the groups’ publications.
+Below is a list of some of the groups’ recent publications.
 More publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=IUkRO7gAAAAJ).
 
+### A map of human PRDM9 binding provides evidence for novel behaviors of PRDM9 and other zinc-finger proteins in meiosis.
+Altemose N, Noor N, Bitoun E, Tumian A, Imbeault M, Chapman JR, Aricescu AR, Myers SR in Elife [https://doi.org/10.7554/eLife.28383](https://doi.org/10.7554/eLife.28383)
+
+### Rapid genotype imputation from sequence without reference panels
+Davies RW, Flint J, Myers S, Mott R Nature Genetics [10.1038/ng.3594](https://doi.org/10.1038/ng.3594)
+
 ### Re-engineering the zinc fingers of PRDM9 reverses hybrid sterility in mice.
-Davies B*, Hatton EW*, Altemose N, Hussin JG, Pratto F, Zhang G, Hinch AG, Moralli D, Biggs D, Diaz R, Preece C, Li R, Bitoun E, Brick K, Green C, Camerini-Otero RD, Myers SR*, Donnelly P*.  Nature, to appear.
+Davies B*, Hatton EW*, Altemose N, Hussin JG, Pratto F, Zhang G, Hinch AG, Moralli D, Biggs D, Diaz R, Preece C, Li R, Bitoun E, Brick K, Green C, Camerini-Otero RD, Myers SR*, Donnelly P*.  Nature, [10.1038/nature16931](https://doi.org/10.1038/nature16931)
 
 ### Evidence for a Common Origin of Blacksmiths and Cultivators in the Ethiopian Ari within the Last 4500 Years: Lessons for Clustering-Based Inference.
-van Dorp L, Balding D, Myers S, Pagani L, Tyler-Smith C, et al. (2015) PLoS Genet 11(8): e1005397. doi: [10.1371/journal.pgen.1005397](http://doi.org/10.1371/journal.pgen.1005397)
+van Dorp L, Balding D, Myers S, Pagani L, Tyler-Smith C, et al. (2015) PLoS Genet 11(8): e1005397. doi: [10.1371/journal.pgen.1005397](https://doi.org/10.1371/journal.pgen.1005397)
