@@ -2,6 +2,19 @@
 layout: page
 title: News
 ---
+
+## 09 December 2017
+Simon will deliver the Francis Crick lecture at the Royal Society on "The birth of a new species: Bringing together, yet driving apart". ([more details](https://royalsociety.org/science-events-and-lectures/2017/12/francis-crick-lecture/))
+
+## 26 October 2017
+Our paper on "A map of human PRDM9 binding provides evidence for novel behaviors of PRDM9 and other zinc-finger proteins in meiosis" is now published in [Elife](https://doi.org/10.7554/eLife.28383).
+
+## 27 August 2017
+This week a number of us will be at the [EMBO conference on Meoisis](https://embo16-meiosis.irb.hr) in Croatia.
+
+## 31 May 2017
+Nick's paper "Human PRDM9 Can Bind And Activate Promoters, And Other Zinc-Finger Proteins Associate With Reduced Recombination In cis" is now [avaliable on bioRxiv](https://doi.org/10.1101/144295)!
+
 ## 18 July 2016.
 Breaking news is that Simon has been awarded the 2017 [Francis Crick Medal and Lecture](https://royalsociety.org/grants-schemes-awards/awards/francis-crick-lecture/) by the Royal Society “for transforming our understanding of meiotic recombination and of human population history. ” The prize lecture will be delivered in December 2017.
 
