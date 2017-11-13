@@ -20,7 +20,7 @@ Unlike similar programs, it requires no a priori specification of surrogates for
 
 Under certain assumptions the pattern of diversity at a collection of linked sites provides information allowing us to detect historic recombination events. The program RecMin.c calculates a lower bound on the number of recombination events required to construct any history of a sample, under the assumption that each segregating site has mutated only once since the most recent common ancestor of the sample. Such a lower bound is appropriate, since many historical recombinations are typically undetectable. It gives a measure of what extent the sample history differs from a simple tree structure, and can show if there is regional clustering of the detectable recombinations.
 
-## [STITCH:](http://www.well.ox.ac.uk/~rwdavies/stitch.html)
+## [STITCH:](https://github.com/rwdavies/STITCH)
 
 STITCH is an R program for reference panel free, read aware, low coverage sequencing genotype imputation. STITCH runs on a set of samples with sequencing reads in BAM format, as well as a list of positions to genotype, and outputs imputed genotypes in VCF format.
 
@@ -28,14 +28,6 @@ STITCH works by modelling each chromosome in the set of samples as a mosaic of K
 
 Contact Robbie Davies
 
-
-## Motif Finder:
-
-Nearing release; expected December 2015.
-
-Contact Robbie Davies.
-
- 
 ## [Genetic maps (human recombination rates):](http://www.well.ox.ac.uk/~anjali/AAmap/)
 
 Provides additional material associated with “Hinch et al. The landscape of recombination in African Americans. Nature” available [here](http://www.nature.com/nature/journal/v476/n7359/abs/nature10336.html?lang=en).
