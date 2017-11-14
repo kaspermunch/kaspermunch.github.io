@@ -43,7 +43,7 @@ Our research often results in new statistical and computational methods which we
 We recently published "Rapid genotype imputation from sequence without reference panels" in <a href="https://doi.org/10.1038/ng.3594">Nature Genetics</a>.
 </li>
 <li class="icon fa-newspaper-o">
-<h3>Re-engineering PRDM9</h3>
+<h3>A human PRDM9 binding map</h3>
 Our paper "A map of human PRDM9 binding provides evidence for novel behaviors of PRDM9 and other zinc-finger proteins in meiosis" is now published in <a href="https://doi.org/10.7554/eLife.28383">Elife</a>.
 </li>
 </ul>
