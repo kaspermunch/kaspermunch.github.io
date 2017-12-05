@@ -3,8 +3,11 @@ layout: page
 title: News
 ---
 
-## 09 December 2017
+## 06 December 2017
 Simon will deliver the Francis Crick lecture at the Royal Society on "The birth of a new species: Bringing together, yet driving apart". ([more details](https://royalsociety.org/science-events-and-lectures/2017/12/francis-crick-lecture/))
+
+## 27 November 2017
+Congratulations to Clare for passing her PhD viva this week!
 
 ## 26 October 2017
 Our paper on "A map of human PRDM9 binding provides evidence for novel behaviors of PRDM9 and other zinc-finger proteins in meiosis" is now published in [Elife](https://doi.org/10.7554/eLife.28383).
