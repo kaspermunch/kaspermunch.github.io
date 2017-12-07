@@ -4,7 +4,11 @@ title: News
 ---
 
 ## 06 December 2017
-Simon will deliver the Francis Crick lecture at the Royal Society on "The birth of a new species: Bringing together, yet driving apart". ([more details](https://royalsociety.org/science-events-and-lectures/2017/12/francis-crick-lecture/))
+<span class="image right"><img src="images/simon-crick.jpg" /></span>
+
+Simon delivered the Francis Crick lecture at the Royal Society on "The birth of a new species: Bringing together, yet driving apart". ([more details](https://royalsociety.org/science-events-and-lectures/2017/12/francis-crick-lecture/)). If you missed it you can watch it on the Royal Societies YouTube channel [here](https://www.youtube.com/watch?v=gKq-lIjP3BM)!
+
+Image: Simon receiving his commemorative scroll from Sir John Skehel. (Daniel Wells [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode))
 
 ## 27 November 2017
 Congratulations to Clare for passing her PhD viva this week!
