@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 15 December 2017
+We went out for lunch this week to mark the departure of Ran who is off to do a second postdoc in the Ratcliffe group, Oxford.
+
 ## 06 December 2017
 <span class="image right"><img src="images/simon-crick.jpg" /></span>
 
