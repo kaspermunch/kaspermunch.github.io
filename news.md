@@ -20,10 +20,10 @@ Congratulations to Clare for passing her PhD viva this week!
 Our paper on "A map of human PRDM9 binding provides evidence for novel behaviors of PRDM9 and other zinc-finger proteins in meiosis" is now published in [Elife](https://doi.org/10.7554/eLife.28383).
 
 ## 27 August 2017
-This week a number of us will be at the [EMBO conference on Meoisis](https://embo16-meiosis.irb.hr) in Croatia.
+This week a number of us will be at the [EMBO conference on Meiosis](https://embo16-meiosis.irb.hr) in Croatia.
 
 ## 31 May 2017
-Nick's paper "Human PRDM9 Can Bind And Activate Promoters, And Other Zinc-Finger Proteins Associate With Reduced Recombination In cis" is now [avaliable on bioRxiv](https://doi.org/10.1101/144295)!
+Nick's paper "Human PRDM9 Can Bind And Activate Promoters, And Other Zinc-Finger Proteins Associate With Reduced Recombination In cis" is now [available on bioRxiv](https://doi.org/10.1101/144295)!
 
 ## 18 July 2016.
 Breaking news is that Simon has been awarded the 2017 [Francis Crick Medal and Lecture](https://royalsociety.org/grants-schemes-awards/awards/francis-crick-lecture/) by the Royal Society “for transforming our understanding of meiotic recombination and of human population history. ” The prize lecture will be delivered in December 2017.
@@ -49,7 +49,7 @@ Organisers: Jonathan Marchini, University of Oxford, UK; Simon Myers, University
 
 <span class="image left"><img src="images/humanizing_prdm9.jpg" /></span>
 
-A study by a team including 5 members of the Myers Group has published a paper in [Nature](http://www.nature.com/nature/journal/v530/n7589/full/nature16931.html) that shows the role the PRDM9 gene plays in speciation. This was achieved by completely restoring fertility in normally infertile hybrids of two mouse subsepecies, by the insertion of a human equivalent of the PRDM9 gene.
+A study by a team including 5 members of the Myers Group has published a paper in [Nature](http://www.nature.com/nature/journal/v530/n7589/full/nature16931.html) that shows the role the PRDM9 gene plays in speciation. This was achieved by completely restoring fertility in normally infertile hybrids of two mouse subspecies, by the insertion of a human equivalent of the PRDM9 gene.
 
 ## 16 November 2015.
 Robbie is writing up his DPhil thesis and has found employment! He will be working with [Genomics plc](http://www.genomicsplc.com/) in Oxford as a Statistical Bioinformatician / Geneticist.
