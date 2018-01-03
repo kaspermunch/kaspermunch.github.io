@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 3 Jan 2018
+A number of our group are going to the [51st Population Genetics Group Meeting](http://populationgeneticsgroup.org.uk) this week in Bristol. Leo will be giving a presentation on "A method for estimating genome-wide genealogies for thousands of samples", and Jeffery will be presenting his previous post-doc work: "A numerical solution of the Wright-Fisher SDE with application to transition probability density approximation".
+
 ## 15 December 2017
 We went out for lunch this week to mark the departure of Ran who is off to do a second postdoc in the Ratcliffe group, Oxford.
 
