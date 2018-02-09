@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 29th January 2018
+Wellcome to Chris Cole who is joining the group for a rotation project as part of the Genomic Medicine and Statistics DPhil course.
+
 ## 3 Jan 2018
 A number of our group are going to the [51st Population Genetics Group Meeting](http://populationgeneticsgroup.org.uk) this week in Bristol. Leo will be giving a presentation on "A method for estimating genome-wide genealogies for thousands of samples", and Jeffery will be presenting his previous post-doc work: "A numerical solution of the Wright-Fisher SDE with application to transition probability density approximation".
 
