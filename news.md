@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 6th February 2018
+Clare and Simon have been working with Oxford Sparks to create an animation about their work on fine scale population structure as part of a special exhibition at the University of Oxford Museum of Natural History. You can watch the animation at [youtube.com/watch?v=G6bNXdwEA84](https://www.youtube.com/watch?v=G6bNXdwEA84) and find out more about the Settlers exhbition at [oum.ox.ac.uk/settlers/](http://www.oum.ox.ac.uk/settlers/).
+
 ## 29th January 2018
 Wellcome to Chris Cole who is joining the group for a rotation project as part of the Genomic Medicine and Statistics DPhil course.
 
