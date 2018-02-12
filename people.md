@@ -88,11 +88,11 @@ I studied Mathematics at the LMU Munich and did a masters in Mathematical Inform
 
 ## Alumni
 
-## Dr Clare Bycroft:
+## [Dr Clare Bycroft](https://twitter.com/bycgen):
 
 <span class="image right"><img src="images/clare.jpg" /></span>
 
-I am a DPhil student interested in shedding light on demographic history by studying patterns of genetic variation. The Iberian Peninsula has undergone a complex history of population isolation, migrations and invasions from other regions, such as North Africa and parts of Europe. I am applying powerful haplotype-based statistical methods to detect and explain the population genetic structure of Spain. Characterising and quantifying the genetic impact of demographic events involving populations from outside of the Peninsula is also a key focus of my research. The Iberian Peninsula provides a unique opportunity to test new admixture models in a setting which involves complex admixture events among relatively closely-related populations.
+Dr Bycroft completed her DPhil on the inference of demographic history from patterns of genetic variation. The Iberian Peninsula has undergone a complex history of population isolation, migrations and invasions from other regions, such as North Africa and parts of Europe. I am applying powerful haplotype-based statistical methods to detect and explain the population genetic structure of Spain. Characterising and quantifying the genetic impact of demographic events involving populations from outside of the Peninsula is also a key focus of my research. The Iberian Peninsula provides a unique opportunity to test new admixture models in a setting which involves complex admixture events among relatively closely-related populations.
 
 [clare@well.ox.ac.uk](mailto:clare@well.ox.ac.uk)
 
@@ -100,23 +100,23 @@ I am a DPhil student interested in shedding light on demographic history by stud
 
 <span class="image left"><img src="images/ran_li.jpg" /></span>
 
-I am a postdoc working on the resolution of recombination. Meiotic recombination is initiated by programmed DNA double strand breaks, which can resolve as crossovers (COs) or as non-crossover gene conversions (NCO). Although most DSB’s resolve as NCO’s, many basic properties of these events remain uncertain, because short NCO tracts are often difficult to detect.
+Dr Li completed a postdoc working on the resolution of recombination. She is now a postdoctoral researcher in the Peter Ratcliffe Group. Meiotic recombination is initiated by programmed DNA double strand breaks, which can resolve as crossovers (COs) or as non-crossover gene conversions (NCO). Although most DSB’s resolve as NCO’s, many basic properties of these events remain uncertain, because short NCO tracts are often difficult to detect.
 
 We have studied this process using data from mice, greatly increasing our power to detect NCO’s in an unbiased fashion. A particular focus is the impact of the variability and binding of the DNA-binding protein PRDM9, a gene the Myers lab [previously identified](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828505/) as controlling recombination positioning in humans and other mammals, on these events.
 
 [ranli@well.ox.ac.uk](mailto:ranli@well.ox.ac.uk)
 
-## [Dr. Michael Salter-Townshend:](https://sites.google.com/site/mikesaltertownshend/)
+## [Dr. Michael Salter-Townshend:](http://www.ucd.ie/research/people/mathematicsstatistics/drmichaelsalter-townshend/)
 
 <span class="image right"><img src="images/mst.jpg" /></span>
 
-I am a postdoc investigating “admixture events” between human populations. These occur when two or more previously separated populations come together, leading to individuals carrying a mixture of ancestries. Specifically, I am developing a new approach to allow identification of individual ancestry segments within such individuals, inferring the nature of the events – including the groups which mixed – without prior knowledge. I’m also a Junior Research Fellow at [Mansfield College](https://www.mansfield.ox.ac.uk/).
+Dr. Salter-Townshend completed a postdoc investigating “admixture events” between human populations. These occur when two or more previously separated populations come together, leading to individuals carrying a mixture of ancestries. Specifically, I am developing a new approach to allow identification of individual ancestry segments within such individuals, inferring the nature of the events – including the groups which mixed – without prior knowledge. He is now an Assistant Professor of Statistics at University College Dublin.
 
 ## [Dr Anna Frangou:](https://uk.linkedin.com/in/anna-frangou-a2b03b65)
 
 <span class="image left"><img src="images/annaf.jpg" /></span>
 
-Anna completed her D.Phil on the the topic of ["Using genealogical trees to examine admixture between modern humans and Neandertals"](https://ora.ox.ac.uk/objects/uuid:ca235cb7-4d90-41d6-ad3d-0883567783a1). She is now a bioinformatician in cancer genomics at the Big Data Institute.
+Dr Frangou completed her D.Phil on the the topic of ["Using genealogical trees to examine admixture between modern humans and Neandertals"](https://ora.ox.ac.uk/objects/uuid:ca235cb7-4d90-41d6-ad3d-0883567783a1). She is now a bioinformatician in cancer genomics at the Big Data Institute.
 
 I am a DPhil student working on understanding the genetic relationships between modern humans and Neandertals, using whole genome data, specifically the nature of admixture (interbreeding) between the two species. We use a novel method – CEPHi – developed by Marie Forest.
 
@@ -129,7 +129,7 @@ CEPHi provides genealogical trees, using which we can directly observe region-sp
 
 <span class="image right"><img src="images/nick.jpg" /></span>
 
-Nick completed his D.Phil on the topic of ["Novel genetic and molecular properties of meiotic recombination protein PRDM9"](http://solo.bodleian.ox.ac.uk/OXVU1:LSCOP_OX:oxfaleph020646080).
+Dr Altemose completed his D.Phil on the topic of ["Novel genetic and molecular properties of meiotic recombination protein PRDM9"](http://solo.bodleian.ox.ac.uk/OXVU1:LSCOP_OX:oxfaleph020646080).
 
 I grew up in California and studied computational Biology at Duke University before doing my DPhil in the Myers group at Oxford. My DPhil project involved applying experimental and computational methods to characterize the catalytic and DNA-binding properties of PRDM9, a rapidly evolving meiotic protein that determines the locations of recombination hotspots in the human genome and influences genome evolution, fertility, and speciation. Now I’m pursuing a second PhD, this time in Bioengineering, at UC Berkeley.
 
@@ -138,7 +138,7 @@ I grew up in California and studied computational Biology at Duke University bef
 
 <span class="image left"><img src="images/robbie.jpg" /></span>
 
-Robbie completed his D.Phil as part of the Genomic Medicine and Statistics programme on the topic of ["Factors influencing genetic variation in wild mice"](https://ora.ox.ac.uk/objects/uuid:ced6a42f-66f5-4001-aaf8-8059d5fcfe27) (2011-2015) He is now a Research Fellow at The Hospital for Sick Children.
+Dr Robbie Davies completed his D.Phil as part of the Genomic Medicine and Statistics programme on the topic of ["Factors influencing genetic variation in wild mice"](https://ora.ox.ac.uk/objects/uuid:ced6a42f-66f5-4001-aaf8-8059d5fcfe27) (2011-2015) He is now a Research Fellow at The Hospital for Sick Children.
 
 I am a DPhil student working on three sets of related questions. The first is the analysis of whole genome sequencing data on 3 populations of wild mice, to i) examine factors such as population demography and selection, and ii) to build and interrogate linkage-disequilibrium based recombination rate maps. Second, I search for short strings of rapidly evolving DNA, and from these reconstruct PRDM9 binding motifs active millions of years ago. Third, I wrote STITCH (Sequencing To Imputation Through Constructing Haplotypes), a read based hidden Markov model for genotype imputation in low coverage sequencing data without a haplotype reference panel.
 
@@ -146,26 +146,26 @@ I am a DPhil student working on three sets of related questions. The first is th
 
 <span class="image right"><img src="images/thaddeus.jpg" /></span>
 
-I am an MPhil student working on identifying evidence of human mutations influenced by natural selection, by building genealogical trees genome-wide for a set of groups sequenced as part of the 1000 genomes project.
+Thaddeus was an MPhil student working on identifying evidence of human mutations influenced by natural selection, by building genealogical trees genome-wide for a set of groups sequenced as part of the 1000 genomes project.
 
 ## [Dr Marie Forest:](https://ca.linkedin.com/in/marie-forest-73a94986)
 
-Marie completed her D.Phil on the topic of “Simultaneous estimation of population size changes and splits times using importance sampling” [ORA Link](https://ora.ox.ac.uk/objects/uuid:8c067a3d-44d5-468a-beb5-34c5830998c4) (2011-2014). She is now a postdoctoral fellow at McGill University.
+Dr Marie Forest completed her D.Phil on the topic of “Simultaneous estimation of population size changes and splits times using importance sampling” [ORA Link](https://ora.ox.ac.uk/objects/uuid:8c067a3d-44d5-468a-beb5-34c5830998c4) (2011-2014). She is now a postdoctoral fellow at McGill University.
 
 ## [Dr Afidalina Tumian:](https://twitter.com/drafidalina)
 
 <span class="image lefdt"><img src="images/afidalina.png" /></span>
 
-Afidalina completed her D.Phil on the topic of [“The Evolution of Recombination Hotspots and Their Relationship with DNA Sequences”](http://solo.bodleian.ox.ac.uk/OXVU1:LSCOP_OX:oxfaleph020406020) (2008-2012). She is now Assistant Professor at International Islamic University Malaysia.
+Dr Afidalina Tumian completed her D.Phil on the topic of [“The Evolution of Recombination Hotspots and Their Relationship with DNA Sequences”](http://solo.bodleian.ox.ac.uk/OXVU1:LSCOP_OX:oxfaleph020406020) (2008-2012). She is now Assistant Professor at International Islamic University Malaysia.
 
 ## [Dr Nudrat Noor:](http://projects.iq.harvard.edu/james-toddlab/people/nudrat-noor-ms-phd)
 
 <span class="image right"><img src="images/nudrat.png" /></span>
 
-Nudrat completed her D.Phil on the topic of [“Molecular Mechanisms of Recombination Hotspots in Humans”](https://ora.ox.ac.uk/objects/uuid:dd26a44a-e190-42e3-b90f-d00269f8a7b4) (2010-2013). She is now a Postdoctoral Fellow at Harvard T.H. Chan School of Public Health.
+Dr Nudrat Noor completed her D.Phil on the topic of [“Molecular Mechanisms of Recombination Hotspots in Humans”](https://ora.ox.ac.uk/objects/uuid:dd26a44a-e190-42e3-b90f-d00269f8a7b4) (2010-2013). She is now a Postdoctoral Fellow at Harvard T.H. Chan School of Public Health.
 
 ## [Dr Anjali Gupta Hinch:](http://www.well.ox.ac.uk/anjali-gupta-hinch)
 
 <span class="image left"><img src="images/anjali.jpeg" /></span>
 
-Anjali completed her D.Phil as part of the Genomic Medicine and Statistics programme on the topic of [“The landscape of recombination in African Americans : leveraging human population variation to investigate homologous recombination”](http://solo.bodleian.ox.ac.uk/OXVU1:LSCOP_OX:oxfaleph020397818) (2010-2013). She is now a post-doc in Prof. Peter Donnelly's group
+Dr Anjali Gupta Hinch completed her D.Phil as part of the Genomic Medicine and Statistics programme on the topic of [“The landscape of recombination in African Americans : leveraging human population variation to investigate homologous recombination”](http://solo.bodleian.ox.ac.uk/OXVU1:LSCOP_OX:oxfaleph020397818) (2010-2013). She is now a post-doc in Prof. Peter Donnelly's group
