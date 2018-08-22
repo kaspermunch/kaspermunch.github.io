@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+## 22nd August 2018
+We are currently advertising for a postdoctoral researcher in Statistical and Population Genetics at the University of Oxford’s Department of Statistics. Supervisory support will be jointly provided by Simon Myers and Jonathan Marchini (Oxford) and Dr Garrett Hellenthal (UCL).
+For informal queries contact Simon Myers (myers@stats.ox.ac.uk). Full details at http://www.stats.ox.ac.uk/vacancies/.
+
 ## 12th March 2018
 Clare's paper on fine-scale population structure in Spain is now avaliable on bioRxiv [doi.org/10.1101/250191](https://doi.org/10.1101/250191).
 
