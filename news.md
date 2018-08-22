@@ -4,7 +4,11 @@ title: News
 ---
 
 ## 22nd August 2018
-We are currently advertising for a postdoctoral researcher in Statistical and Population Genetics at the University of Oxford’s Department of Statistics. Supervisory support will be jointly provided by Simon Myers and Jonathan Marchini (Oxford) and Dr Garrett Hellenthal (UCL).
+
+Postdoc opportunity in statistical and population genetics at University of Oxford.<br/>
+Closing date: 17th September 2018
+
+We are currently advertising for a postdoctoral researcher in Statistical and Population Genetics at the University of Oxford’s Department of Statistics. Supervisory support will be jointly provided by Simon Myers and Jonathan Marchini (Oxford) and Dr Garrett Hellenthal (UCL). The post is for 18 months.
 For informal queries contact Simon Myers ([myers@stats.ox.ac.uk](myers@stats.ox.ac.uk)). Full details at [http://www.stats.ox.ac.uk/vacancies/](http://www.stats.ox.ac.uk/vacancies/).
 
 ## 12th March 2018
