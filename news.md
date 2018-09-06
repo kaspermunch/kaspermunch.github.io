@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+## 12th September
+
+Simon will be giving a keynote presentation at the [The Students and Postdocs Meiosis Workshop](https://congress.igh.cnrs.fr/PDSM2018/) in Montpellier, France on the 12th of September.
+
 ## 22nd August 2018
 
 Postdoc opportunity in statistical and population genetics at University of Oxford.<br/>
