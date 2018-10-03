@@ -21,14 +21,6 @@ I am a postdoc performing experimental lab-based research to study recombination
 
 [ebitoun@well.ox.ac.uk](mailto:ebitoun@well.ox.ac.uk)
 
-## [Dr Zhangyi He:](http://users.ox.ac.uk/~stat0304/)
-
-<span class="image left"><img src="images/He.jpg" /></span>
-
-I am a postdoc working on the Wellcome-Trust funded project: “Building a platform for genetic inference from the Genomics England data”, supervised by Professor Jonathan Marchini and Professor Simon Myers. During the 3-year lifetime of this project, Genomics England (GEL) will deeply sequence 100,000 complete human genomes from approximately 70,000 individuals, sampled across a range of rare disease phenotypes, cancer patients, and healthy individuals. We are responsible for leading the development and implementation of new statistical analysis tools, enabling the research community to leverage the GEL data in studies of human phenotypes, by allowing phasing and imputation of extremely low frequency variants. Within the same unified analysis framework, we will also develop approaches to characterize the fine-scale genetic structure of the English population at an unprecedented level, providing knowledge for population structure matching and adjustment for such phenotypic studies.
-
-[zhangyi.he@stats.ox.ac.uk](mailto:zhangyi.he@stats.ox.ac.uk)
-
 
 ## [Dr Sile Hu:](http://users.ox.ac.uk/~stat0311/)
 
@@ -87,6 +79,13 @@ I studied Mathematics at the LMU Munich and did a masters in Mathematical Inform
 [leo.speidel@outlook.com](mailto:leo.speidel@outlook.com)
 
 ## Alumni
+
+## [Dr Zhangyi He:](https://uk.linkedin.com/in/zhangyi-he)
+
+<span class="image left"><img src="images/He.jpg" /></span>
+
+I am a postdoc working on the Wellcome-Trust funded project: “Building a platform for genetic inference from the Genomics England data”, supervised by Professor Jonathan Marchini and Professor Simon Myers. During the 3-year lifetime of this project, Genomics England (GEL) will deeply sequence 100,000 complete human genomes from approximately 70,000 individuals, sampled across a range of rare disease phenotypes, cancer patients, and healthy individuals. We are responsible for leading the development and implementation of new statistical analysis tools, enabling the research community to leverage the GEL data in studies of human phenotypes, by allowing phasing and imputation of extremely low frequency variants. Within the same unified analysis framework, we will also develop approaches to characterize the fine-scale genetic structure of the English population at an unprecedented level, providing knowledge for population structure matching and adjustment for such phenotypic studies.
+
 
 ## [Dr Clare Bycroft](https://twitter.com/bycgen):
 
