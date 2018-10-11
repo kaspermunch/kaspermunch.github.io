@@ -3,6 +3,12 @@ layout: page
 title: Software
 ---
 
+## [Relate] (https://myersgroup.github.io/relate/)
+
+Relate estimates genome-wide genealogies for sequencing data of thousands of individuals. A genealogy connects present-day samples and their most-recent common ancestors (MRCAs) using historical coalescence, recombination, and mutation events. To reconstruct a genealogy, the MRCA relationships are inferred from present-day samples. In principle, they record all available information about the genetic history of a sample, such that genealogy-based inferences are often very powerful. Relate can be used to estimate historical population sizes and mutation rates, or detect evidence of selective sweeps in a population. 
+
+The method is available at [https://myersgroup.github.io/relate/](https://myersgroup.github.io/relate/).
+
 ## [MOSAIC:](https://maths.ucd.ie/~mst/MOSAIC/)
 
 MOSAIC infers ancestry segments and characterizes admixture events, which involve an arbitrary number of genetically differentiated groups coming together. This allows inference of the demographic history of the species, properties of admixing groups, identification of signatures of natural selection, and may aid disease gene mapping. The algorithm employs nested hidden Markov models to obtain local ancestry estimation along the genome for each admixed individual. In a range of simulations, the accuracy of these estimates equals or exceeds leading existing methods that return local ancestry. Moreover, and unlike these approaches, we do not require any prior knowledge of the relationship between sub-groups of donor reference haplotypes and the unseen mixing ancestral populations.
