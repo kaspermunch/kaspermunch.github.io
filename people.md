@@ -72,7 +72,8 @@ Having completed my degree in 2006, covering a wide range of mathematical topics
 
 <span class="image left"><img src="images/leo.jpg" /></span>
 
-I am a DPhil student working on inference of most-recent common ancestor (MRCA) relationships between DNA sequences (genealogy). Humans have 22 homologous pairs of chromosomes; each pair consists of one maternally and one paternally inherited chromosome. When DNA is passed on to an offspring, homologous chromosomes of a parent can undergo recombination. In this process, a single new chromosome is formed inheriting DNA of both homologous chromosomes. Ancestry may differ for each homologous chromosome and MRCA relationships may therefore change along the newly formed chromosome. We are developing a method that infers a sequence of (rooted) binary trees, where each tree specifies genealogy of a subregion on the chromosome.
+I am a DPhil student working on a method for estimating genealogies for thousands of DNA samples. Genealogies
+describe how the genetic information of present‐day individuals relate to each other over millions of years. Once we have reconstructed the genealogy, we use statistical techniques to reveal key events in their evolutionary history, including migration paths, admixture events among subgroups, or adaptation to changing environments through natural selection. Our method is available at [https://myersgroup.github.io/relate/](https://myersgroup.github.io/relate/).
 
 I studied Mathematics at the LMU Munich and did a masters in Mathematical Informatics at the University of Tokyo. I am also interested in networks/graphs and dynamical systems on top of them, such as epidemic models.
 
