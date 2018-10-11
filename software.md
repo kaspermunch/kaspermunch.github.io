@@ -3,7 +3,7 @@ layout: page
 title: Software
 ---
 
-## [Relate] (https://myersgroup.github.io/relate/)
+## [Relate](https://myersgroup.github.io/relate/)
 
 Relate estimates genome-wide genealogies for sequencing data of thousands of individuals. A genealogy connects present-day samples and their most-recent common ancestors (MRCAs) using historical coalescence, recombination, and mutation events. To reconstruct a genealogy, the MRCA relationships are inferred from present-day samples. In principle, they record all available information about the genetic history of a sample, such that genealogy-based inferences are often very powerful. Relate can be used to estimate historical population sizes and mutation rates, or detect evidence of selective sweeps in a population. 
 
