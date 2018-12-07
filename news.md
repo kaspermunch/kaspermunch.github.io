@@ -3,7 +3,13 @@ layout: page
 title: News
 ---
 
-## 12th September
+## 4 - 7th November 2018
+Leo and Daniel both gave talks at the [ProbGen](http://meetings.cshl.edu/Probabilistic18) Conference in CSHL on "Reconstructing the genealogies of humans and wild mice" and "Decomposition of mouse spermatogenesis at single-cell resolution reveals dynamic transcriptional programs orchestrated by a rich regulatory repertoire".
+
+## 30th October 2018
+Our paper on non-crossover events is now avaliable on bioRxiv. [https://doi.org/10.1101/428987](https://doi.org/10.1101/428987)
+
+## 12th September 2018
 
 Simon will be giving a keynote presentation at the [The Students and Postdocs Meiosis Workshop](https://congress.igh.cnrs.fr/PDSM2018/) in Montpellier, France on the 12th of September.
 
@@ -14,6 +20,15 @@ Closing date: 17th September 2018
 
 We are currently advertising for a postdoctoral researcher in Statistical and Population Genetics at the University of Oxford’s Department of Statistics. Supervisory support will be jointly provided by Simon Myers and Jonathan Marchini (Oxford) and Dr Garrett Hellenthal (UCL). The post is for 18 months.
 For informal queries contact Simon Myers ([myers@stats.ox.ac.uk](myers@stats.ox.ac.uk)). Full details at [http://www.stats.ox.ac.uk/vacancies/](http://www.stats.ox.ac.uk/vacancies/).
+
+## 16th August 2018
+Daniel's paper on single cell RNAseq of the testis is now avaliable on bioRxiv. [https://doi.org/10.1101/393769](https://doi.org/10.1101/393769)
+
+## 25th July 2018
+Mike's paper on inferring ancestry segments and characterizing admixture events is now avaliable on bioRxiv. [https://doi.org/10.1101/376137](https://doi.org/10.1101/376137)
+
+## 12th July 2018
+Leo gave a talk at [SMBE](https://www.smbe2018.jp) on "Identifying natural selection by constructing genome-wide genealogies"
 
 ## 12th March 2018
 Clare's paper on fine-scale population structure in Spain is now avaliable on bioRxiv [doi.org/10.1101/250191](https://doi.org/10.1101/250191).
