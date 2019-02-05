@@ -3,6 +3,11 @@ layout: page
 title: News
 ---
 
+## 4th Feburary 2019
+Clare's paper on "Patterns of genetic differentiation and the footprints of historical migrations in the Iberian Peninsula" was published in [Nature Communications](https://www.nature.com/articles/s41467-018-08272-w).
+
+A press release for this study can be read [here](http://www.ox.ac.uk/news/2019-02-04-centuries-old-population-movements-revealed-fine-scale-genetic-map-iberian-peninsula).
+
 ## 4 - 7th November 2018
 Leo and Daniel both gave talks at the [ProbGen](http://meetings.cshl.edu/Probabilistic18) Conference in CSHL on "Reconstructing the genealogies of humans and wild mice" and "Decomposition of mouse spermatogenesis at single-cell resolution reveals dynamic transcriptional programs orchestrated by a rich regulatory repertoire".
 
