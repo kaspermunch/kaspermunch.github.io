@@ -4,9 +4,7 @@ title: Teaching
 ---
 ## Current Courses
 
-* [Part C Stochastic Models in Mathematical Genetics Course Materials](http://www.stats.ox.ac.uk/~myers/mathgenteaching.html)
+* [Bioinformatics and Programming](http://)
+* [Population Genomics](http://)
+* [Advanced topics in genomics](http://)
 
-## Past Courses
-
-* [Moderations Statistics](http://www.stats.ox.ac.uk/~myers/modsstats.html)
-* [Part A Statistics Course Materials](http://www.stats.ox.ac.uk/~myers/stats_materials.html)
