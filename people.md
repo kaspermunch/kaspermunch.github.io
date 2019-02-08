@@ -2,9 +2,9 @@
 layout: page
 title: People
 ---
-## Associate professor Kasper Munch
+## Kasper Munch - Associate professor 
 
-<p><span class="image left"><img src="images/kasper.jpg"  width="50" /></span> Associate professor at the Bioinformatics Research Centre (BiRC) at Aarhus University. Most research use population genomics approaches to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Most work is done on great apes and other primates.</p>
+<p><span class="image right"><img src="images/kasper.jpg"  width="50" /></span> Associate professor at the Bioinformatics Research Centre (BiRC) at Aarhus University. Most research use population genomics approaches to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Most work is done on great apes and other primates.</p>
 
 [CV]() - 
 [ORCID Profile](http://orcid.org/) - 
