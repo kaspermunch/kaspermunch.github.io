@@ -23,19 +23,19 @@ layout: landing
 <!-- Two -->
 <section id="two" class="wrapper alt style2">
 <section class="spotlight">
-<div class="image"><img src="images/placeholder.png" /></div><div class="content">
+<div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Research</h2>
 Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. We develop and apply population genetic method on full genomes to address these questions in both living and ancestral species. <a href="research.html">Read more about our research here</a>.
 </div>
 </section>
 <section class="spotlight">
-<div class="image"><img src="images/placeholder.png" /></div><div class="content">
+<div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Software</h2>
 About software... <a href="software.html">Read more about our software here</a>.
 </div>
 </section>
 <section class="spotlight">
-<div class="image"><img src="images/placeholder.png" /></div><div class="content">
+<div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Software</h2>
 About software... <a href="software.html">Read more about our software here</a>.
 </div>
