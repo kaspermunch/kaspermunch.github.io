@@ -4,9 +4,7 @@ title: People
 ---
 ## Associate professor Kasper Munch
 
-<span class="image left"><img src="images/kasper.jpg" /></span>
-
-Associate professor at the Bioinformatics Research Centre (BiRC) at Aarhus University. Most research use population genomics approaches to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Most work is done on great apes and other primates.
+<p><span class="image left"><img src="images/kasper.jpg"  style="height:100px;" /></span> Associate professor at the Bioinformatics Research Centre (BiRC) at Aarhus University. Most research use population genomics approaches to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Most work is done on great apes and other primates.</p>
 
 [CV]() - 
 [ORCID Profile](http://orcid.org/) - 
@@ -17,15 +15,11 @@ Associate professor at the Bioinformatics Research Centre (BiRC) at Aarhus Unive
 
 ## [David Castellano:](https://)
 
-<span class="image left"><img src="images/david_castellano3.png" /></span>
-
-Works on the effect of Hill-Robertson interference on adaptive evolution across different species. Ph.D. in genetics at IBB, Autonomous University of Barcelona with Antonio Barbadilla.
+<p><span class="image right"><img src="images/david_castellano3.png" style="height:128px;" /></span> Works on the effect of Hill-Robertson interference on adaptive evolution across different species. Ph.D. in genetics at IBB, Autonomous University of Barcelona with Antonio Barbadilla.</p>
 
 
 ## [Jonas Berglund](https://):
 
-<span class="image right"><img src="images/jonas_berglund2.png" /></span>
-
-Works on GC-biased gene conversion. PhD in genetics at IMBIM, Uppsala Universitet with Dr. Matthew T. Webster. Comes from a postdoc in genomics at IMBIM, Uppsala Universitet with Dr. Patric Jern.
+<p><span class="image right"><img src="images/jonas_berglund2.png"  style="height:228px; /></span> Works on GC-biased gene conversion. PhD in genetics at IMBIM, Uppsala Universitet with Dr. Matthew T. Webster. Comes from a postdoc in genomics at IMBIM, Uppsala Universitet with Dr. Patric Jern.</p>
 
 
