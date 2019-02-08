@@ -36,8 +36,8 @@ About software... <a href="software.html">Read more about our software here</a>.
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
-<h2>Software</h2>
-About software... <a href="software.html">Read more about our software here</a>.
+<h2>Popular Science</h2>
+Whenever we publish new findings, we strive to explain our results to the public. <a href="software.html">Read more here</a>.
 </div>
 </section>
 </section>

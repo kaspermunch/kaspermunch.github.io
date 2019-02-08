@@ -4,16 +4,7 @@ title: Publications
 ---
 Below is a list of some of the groups’ recent publications.
 
-## Preprints
-
-### Dynamic Copy Number Evolution of X- and Y-Linked Ampliconic Genes in Human Populations
-Lucotte EA, Skov L, Jensen JM, Macià MC, <span style="text-decoration:underline;">Munch K</span>, Schierup MH  
-[https://doi.org/](https://doi.org/)
-
-### The comparative genomics and complex population history of <em>Papio</em> baboons
-Rogers J, Raveendran M, Harris A, Mailund T, Leppälä K, Athanasiadis G, Schierup MH, Cheng J, <span style="text-decoration:underline;">Munch K</span>, Walker JA, Konkel MK, Jordan V, Steely CJ, Beckstrom TO, Bergey C, Burrell A, Schrempf D, Noll A, Kothe M, Kopp GH, Liu Y, Murali A, Billis K, Martin FJ, Muffato M, Cox L, Else J, Disotell T, Muzny DM, Phillips-Conroy J, Aken B, Eichler EE, Marques-Bonet T, Kosiol C, Batzer MA, Hahn MW, Tung J, Zinner D, Roos C, Jolly CJ, Gibbs RA, Worley KC, and the Baboon Genome Analysis Consortium  
-[https://doi.org/](https://doi.org/)
-
+## Peer reviewed publications
 
 <p><strong>Dynamic Copy Number Evolution of X- and Y-Linked Ampliconic Genes in Human Populations</strong><br>
 Lucotte EA, Skov L, Jensen JM, Macià MC, <span style="text-decoration:underline;">Munch K</span>, Schierup MH<br>
