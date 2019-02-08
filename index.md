@@ -15,7 +15,7 @@ layout: landing
 <div class="inner">
 <header class="major">
 <h2>The Group</h2>
-<p>Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. We develop and apply population genetic method on full genomes to address these questions in both living and ancestral species.<a href="people.html">Find out more about our research.</a></p>
+<p>Who we are...</p>
 </header>
 </div>
 </section>
@@ -24,8 +24,8 @@ layout: landing
 <section id="two" class="wrapper alt style2">
 <section class="spotlight">
 <div class="image"><img src="images/pic01.jpg" /></div><div class="content">
-<h2>Software</h2>
-About software... <a href="software.html">Read more about our software here</a>.
+<h2>Research</h2>
+Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. We develop and apply population genetic method on full genomes to address these questions in both living and ancestral species. <a href="research.html">Read more about our research here</a>.
 </div>
 </section>
 <section class="spotlight">
@@ -47,9 +47,17 @@ About software... <a href="software.html">Read more about our software here</a>.
 <div class="inner">
 <header class="major">
 <h2>Publications</h2>
-<p>See our publication list <a href="publications.html">here</a></p>
+<p>See our full publication list <a href="publications.html">here</a></p>
 </header>
 <ul class="features">
+<li class="icon fa-newspaper-o">
+<h3>Some title</h3>
+What the paper is about... <a href="https://doi.org/">Journal</a>.
+</li>
+<li class="icon fa-newspaper-o">
+<h3>Some other title</h3>
+What the paper is about...  <a href="https://doi.org/">Journal</a>.
+</li>
 <li class="icon fa-newspaper-o">
 <h3>Some title</h3>
 What the paper is about... <a href="https://doi.org/">Journal</a>.
