@@ -30,7 +30,7 @@ About software... <a href="software.html">Read more about our software here</a>.
 </section>
 </section>
 
-<section id="two" class="wrapper alt style2">
+<section id="three" class="wrapper alt style2">
 <section class="spotlight">
 <div class="image"><img src="images/pic01.jpg" /></div><div class="content">
 <h2>Software</h2>
@@ -39,7 +39,7 @@ About software... <a href="software.html">Read more about our software here</a>.
 </section>
 </section>
 
-<section id="two" class="wrapper alt style2">
+<section id="four" class="wrapper alt style2">
 <section class="spotlight">
 <div class="image"><img src="images/pic01.jpg" /></div><div class="content">
 <h2>Software</h2>
@@ -49,7 +49,7 @@ About software... <a href="software.html">Read more about our software here</a>.
 </section>
 
 <!-- Three -->
-<section id="three" class="wrapper style3 special">
+<section id="five" class="wrapper style3 special">
 <div class="inner">
 <header class="major">
 <h2>Publications</h2>
