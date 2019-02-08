@@ -15,7 +15,7 @@ layout: landing
 <div class="inner">
 <header class="major">
 <h2>The Group</h2>
-<p>Who we are... <a href="people.html">Find out more about our research interests and backgrounds.</a></p>
+<p>Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. We develop and apply population genetic method on full genomes to address these questions in both living and ancestral species.<a href="people.html">Find out more about our research.</a></p>
 </header>
 </div>
 </section>
@@ -30,12 +30,30 @@ About software... <a href="software.html">Read more about our software here</a>.
 </section>
 </section>
 
+<section id="two" class="wrapper alt style2">
+<section class="spotlight">
+<div class="image"><img src="images/pic01.jpg" /></div><div class="content">
+<h2>Software</h2>
+About software... <a href="software.html">Read more about our software here</a>.
+</div>
+</section>
+</section>
+
+<section id="two" class="wrapper alt style2">
+<section class="spotlight">
+<div class="image"><img src="images/pic01.jpg" /></div><div class="content">
+<h2>Software</h2>
+About software... <a href="software.html">Read more about our software here</a>.
+</div>
+</section>
+</section>
+
 <!-- Three -->
 <section id="three" class="wrapper style3 special">
 <div class="inner">
 <header class="major">
 <h2>Publications</h2>
-<p>Check out our full publication list <a href="publications.html">here</a></p>
+<p>See our publication list <a href="publications.html">here</a></p>
 </header>
 <ul class="features">
 <li class="icon fa-newspaper-o">
