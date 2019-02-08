@@ -29,7 +29,7 @@ Our goal is to understand how mutation, selection and recombination together sha
 </div>
 </section>
 <section class="spotlight">
-<div class="image"><img src="images/linkedin_background.png" /></div><div class="content">
+<div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Software</h2>
 About software... <a href="software.html">Read more about our software here</a>.
 </div>
