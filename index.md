@@ -28,20 +28,12 @@ layout: landing
 About software... <a href="software.html">Read more about our software here</a>.
 </div>
 </section>
-</section>
-
-
-<!-- Two -->
-<section id="two" class="wrapper style2">
 <section class="spotlight">
 <div class="image"><img src="images/pic01.jpg" /></div><div class="content">
 <h2>Software</h2>
 About software... <a href="software.html">Read more about our software here</a>.
 </div>
 </section>
-
-</section><!-- Two -->
-<section id="two" class="wrapper alt style2">
 <section class="spotlight">
 <div class="image"><img src="images/pic01.jpg" /></div><div class="content">
 <h2>Software</h2>
