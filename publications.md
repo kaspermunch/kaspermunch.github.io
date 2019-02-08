@@ -22,7 +22,7 @@ Palkopoulou E, Lipson M, Mallick S, Nielsen S, Rohland N, Baleka S, Karpinski E,
 Nam K, <span style="text-decoration:underline;">Munch K</span>, Mailund T, Nater A, Greminger M, Krützen M, Marquès-Bonet T, Schierup MH<br>
 <strong><a href="http://www.pnas.org/content/early/2017/01/25/1605660114.full.pdf?sid=9c738bfe-20ef-4739-9831-eb395b70332f">PNAS</a></strong><a href="http://www.pnas.org/content/early/2017/01/25/1605660114.full.pdf?sid=9c738bfe-20ef-4739-9831-eb395b70332f">&nbsp;(2017)</a></p>
 
-<p><strong>Selective Sweeps across Twenty Million&nbsp;Years of Primate Evolution</strong><br>
+<p><strong>Selective Sweeps across Twenty Million Years of Primate Evolution</strong><br>
 <span style="text-decoration:underline;"> Munch K</span>, Nam K, Schierup MH, Mailund M<br>
 <a href="http://mbe.oxfordjournals.org/content/33/12/3065"><strong>Molecular Biology and Evolution</strong>&nbsp;(2016)</a></p>
 

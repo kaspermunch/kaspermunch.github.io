@@ -37,7 +37,7 @@ About software... <a href="software.html">Read more about our software here</a>.
 <section class="spotlight">
 <div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Popular Science</h2>
-Whenever we publish new findings, we strive to explain our results to the public. <a href="software.html">Read more here</a>.
+Whenever we publish new findings, we strive to explain our results to the public. <a href="popular_science.html">Read more here</a>.
 </div>
 </section>
 </section>
@@ -51,19 +51,19 @@ Whenever we publish new findings, we strive to explain our results to the public
 </header>
 <ul class="features">
 <li class="icon fa-newspaper-o">
-<h3>Some title</h3>
+<h3>The comparative genomics and complex population history of <em>Papio</em> baboons</h3>
 What the paper is about... <a href="https://doi.org/">Journal</a>.
 </li>
 <li class="icon fa-newspaper-o">
-<h3>Some other title</h3>
+<h3>A comprehensive genomic history of extinct and living elephants</h3>
 What the paper is about...  <a href="https://doi.org/">Journal</a>.
 </li>
 <li class="icon fa-newspaper-o">
-<h3>Some title</h3>
+<h3>Selective Sweeps across Twenty Million Years of Primate Evolution</h3>
 What the paper is about... <a href="https://doi.org/">Journal</a>.
 </li>
 <li class="icon fa-newspaper-o">
-<h3>Some other title</h3>
+<h3>Strong selective sweeps on the X chromosome in the human-chimpanzee ancestor explain its low divergence</h3>
 What the paper is about...  <a href="https://doi.org/">Journal</a>.
 </li>
 </ul>
