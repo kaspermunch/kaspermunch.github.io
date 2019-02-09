@@ -15,7 +15,7 @@ layout: landing
 <div class="inner">
 <header class="major">
 <h2>The Group</h2>
-<p>Who we are...</p>
+<p>We are a group of population genetisists and computational biologists addressing fundamental questions about evolution. </p>
 </header>
 </div>
 </section>
@@ -31,7 +31,7 @@ Our goal is to understand how mutation, selection and recombination together sha
 <section class="spotlight">
 <div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Software</h2>
-About software... <a href="software.html">Read more about our software here</a>.
+New computational approaches are distributed scientific software and libraries. <a href="software.html">Read more about our software here</a>.
 </div>
 </section>
 <section class="spotlight">
@@ -47,7 +47,7 @@ Whenever we publish new findings, we strive to explain our results to the public
 <div class="inner">
 <header class="major">
 <h2>Publications</h2>
-<p>See our full publication list <a href="publications.html">here</a></p>
+<p>See the full publication list of past and present group members. <a href="publications.html">here</a></p>
 </header>
 <ul class="features">
 <li class="icon fa-newspaper-o">

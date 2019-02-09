@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 ---
-Below is a list of some of the groups’ recent publications.
 
 ## Peer reviewed publications
 
@@ -144,3 +143,6 @@ Haile J, Holdaway R, Oliver K, Bunce M, Gilbert MT, Nielsen R, <span style="text
 <p><strong>A hidden Markov model approach for determining expression from genomic tiling micro arrays</strong><br>
 <span style="text-decoration:underline;">Munch K</span>, Gardner PP, Arctander P, and Krogh A<br>
 <a href="http://www.biomedcentral.com/1471-2105/7/239/abstract"><strong>BMC Bioinformatics</strong>&nbsp;(2006)</a></p>
+
+## Other publications
+
