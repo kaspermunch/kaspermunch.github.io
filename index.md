@@ -23,7 +23,7 @@ layout: landing
 <!-- Two -->
 <section id="two" class="wrapper alt style2">
 <section class="spotlight">
-<div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
+<div class="image"><img src="images/research.png" /></div><div class="content">
 <h2>Research</h2>
 Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. <a href="research.html">Read more here.</a>.
 </div>
