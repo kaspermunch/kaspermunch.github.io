@@ -15,7 +15,7 @@ layout: landing
 <div class="inner">
 <header class="major">
 <h2>The Group</h2>
-<p>We are a group of population genetisists and computational biologists addressing fundamental questions about evolution. </p>
+<p>We use population genomics to address fundamental mechanisms of evolution.</p>
 </header>
 </div>
 </section>
@@ -25,19 +25,19 @@ layout: landing
 <section class="spotlight">
 <div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Research</h2>
-Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. <a href="research.html">Read more about our research here</a>.
+Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. <a href="research.html">Read more here.</a>.
 </div>
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Software</h2>
-New computational approaches are distributed scientific software and libraries. <a href="software.html">Read more about our software here</a>.
+New computational approaches are distributed scientific software and libraries. <a href="software.html">Read more here.</a>.
 </div>
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/placeholder.jpg" /></div><div class="content">
 <h2>Popular Science</h2>
-Whenever we publish new findings, we strive to explain our results to the public. <a href="popular_science.html">Read more here</a>.
+Whenever we publish new findings, we strive to explain our results to the public. <a href="popular_science.html">Read more here.</a>.
 </div>
 </section>
 </section>
