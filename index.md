@@ -52,19 +52,11 @@ Whenever we publish new findings, we strive to explain our results to the public
 <ul class="features">
 <li class="icon fa-newspaper-o">
 <h3>The comparative genomics and complex population history of <em>Papio</em> baboons</h3>
-What the paper is about... <a href="https://doi.org/">Journal</a>.
+Read it in <a href="http://advances.sciencemag.org/content/5/1/eaau6947">Science Advances</a>.
 </li>
 <li class="icon fa-newspaper-o">
 <h3>A comprehensive genomic history of extinct and living elephants</h3>
-What the paper is about...  <a href="https://doi.org/">Journal</a>.
-</li>
-<li class="icon fa-newspaper-o">
-<h3>Selective Sweeps across Twenty Million Years of Primate Evolution</h3>
-What the paper is about... <a href="https://doi.org/">Journal</a>.
-</li>
-<li class="icon fa-newspaper-o">
-<h3>Strong selective sweeps on the X chromosome in the human-chimpanzee ancestor explain its low divergence</h3>
-What the paper is about...  <a href="https://doi.org/">Journal</a>.
+Read it in <a href="https://www.pnas.org/content/115/11/E2566">PNAS</a>.
 </li>
 </ul>
 </div>
