@@ -2,7 +2,6 @@
 layout: page
 title: Research
 ---
-Bla. bla.
 
 ## Evolution of recombination landscapes
 We work on methods for inference of recombination patterns in ancestral populations. A recombination map for the ancestor of two closely related species can be derived using coalescent hidden Markov models. This type of analysis helps us understand how recombination patterns evolve and how recombination drives non-adaptive evolution of genomes. We am currently extending this work to ancestral species across the primate species tree tree.

@@ -2,7 +2,6 @@
 layout: page
 title: Popular Science
 ---
-Bla. bla.
 
 ## Mix yourself a baboon
 

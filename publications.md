@@ -5,13 +5,14 @@ title: Publications
 
 ## Peer reviewed publications
 
+<p><strong>The comparative genomics and complex population history of <em>Papio</em> baboons</strong><br>
+Rogers J, Raveendran M, Harris A, Mailund T, Leppälä K, Athanasiadis G, Schierup MH, Cheng J, <span style="text-decoration:underline;">Munch K</span>, Walker JA, Konkel MK, Jordan V, Steely CJ, Beckstrom TO, Bergey C, Burrell A, Schrempf D, Noll A, Kothe M, Kopp GH, Liu Y, Murali A, Billis K, Martin FJ, Muffato M, Cox L, Else J, Disotell T, Muzny DM, Phillips-Conroy J, Aken B, Eichler EE, Marques-Bonet T, Kosiol C, Batzer MA, Hahn MW, Tung J, Zinner D, Roos C, Jolly CJ, Gibbs RA, Worley KC, and the Baboon Genome Analysis Consortium<br>
+<strong>Science Advances</strong> (2019)</p>
+<a href="http://advances.sciencemag.org/content/5/1/eaau6947"><strong>Science Advances</strong> (2019)</a></p>
+
 <p><strong>Dynamic Copy Number Evolution of X- and Y-Linked Ampliconic Genes in Human Populations</strong><br>
 Lucotte EA, Skov L, Jensen JM, Macià MC, <span style="text-decoration:underline;">Munch K</span>, Schierup MH<br>
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/29769284"><strong>Genetics</strong> (2018)</a></p>
-
-<p><strong>The comparative genomics and complex population history of <em>Papio</em> baboons</strong><br>
-Rogers J, Raveendran M, Harris A, Mailund T, Leppälä K, Athanasiadis G, Schierup MH, Cheng J, <span style="text-decoration:underline;">Munch K</span>, Walker JA, Konkel MK, Jordan V, Steely CJ, Beckstrom TO, Bergey C, Burrell A, Schrempf D, Noll A, Kothe M, Kopp GH, Liu Y, Murali A, Billis K, Martin FJ, Muffato M, Cox L, Else J, Disotell T, Muzny DM, Phillips-Conroy J, Aken B, Eichler EE, Marques-Bonet T, Kosiol C, Batzer MA, Hahn MW, Tung J, Zinner D, Roos C, Jolly CJ, Gibbs RA, Worley KC, and the Baboon Genome Analysis Consortium<br>
-<strong>Science Advances</strong> IN PRESS</p>
 
 <p><strong>A comprehensive genomic history of extinct and living elephants</strong><br>
 Palkopoulou E, Lipson M, Mallick S, Nielsen S, Rohland N, Baleka S, Karpinski E, Ivancevic AM, To TH, R. Kortschak D, Raison JM, Qu Z, Chin TJ, Alt KW, Claesson S, Dalén L, MacPhee RDE, Meller H, Roca AL, Ryder OA, Heiman D, Young S, Breen M, Williams C, Aken BL, Ruffier M, Karlsson E, Johnson J, Palma FD, Alfoldi J, Adelson DL, Mailund T, <span style="text-decoration:underline;">Munch K</span>, Lindblad-Toh K, Hofreiter M, Poinar H, Reich D<br>
