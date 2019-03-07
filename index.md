@@ -35,7 +35,7 @@ New computational approaches are distributed as scientific software and librarie
 </div>
 </section>
 <section class="spotlight">
-<div class="image"><img src="images/popular2.png" /></div><div class="content">
+<div class="image"><img src="images/public.png" /></div><div class="content">
 <h2>Popular Science</h2>
 Whenever we publish new findings, we strive to explain our results to the public. <a href="popular_science.html">Read more here.</a>.
 </div>
