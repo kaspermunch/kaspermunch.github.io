@@ -15,7 +15,7 @@ layout: landing
 <div class="inner">
 <header class="major">
 <h2>The Group</h2>
-<p>We use population genomics to address fundamental mechanisms of evolution.</p>
+<p>We use population genomic analysis to address the fundamental mechanisms of evolution - with a special affinity for the unique role of sex chromosomes and meiotic drive.</p>
 </header>
 </div>
 </section>
@@ -31,7 +31,7 @@ Our goal is to understand how mutation, selection and recombination together sha
 <section class="spotlight">
 <div class="image"><img src="images/code.png" /></div><div class="content">
 <h2>Software</h2>
-New computational approaches are distributed scientific software and libraries. <a href="software.html">Read more here.</a>.
+New computational approaches are distributed as scientific software and libraries. <a href="software.html">Read more here.</a>.
 </div>
 </section>
 <section class="spotlight">
@@ -47,7 +47,7 @@ Whenever we publish new findings, we strive to explain our results to the public
 <div class="inner">
 <header class="major">
 <h2>Publications</h2>
-<p>See the full publication list of past and present group members. <a href="publications.html">here</a></p>
+<p>See the full list of publications from the group <a href="publications.html">here</a>.</p>
 </header>
 <ul class="features">
 <li class="icon fa-newspaper-o">
@@ -67,7 +67,7 @@ Read it in <a href="https://www.pnas.org/content/115/11/E2566">PNAS</a>.
 <div class="inner">
 <header>
 <h2>News</h2>
-<p>Keep up to date with the latest news relating to our group</p>
+<p>News from the group - big and small</p>
 </header>
 <ul class="actions vertical">
 <li></li>
