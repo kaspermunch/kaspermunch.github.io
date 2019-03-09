@@ -18,6 +18,12 @@ layout: landing
 <p>We use population genomic analysis and modelling to address the fundamental mechanisms of evolution <br>- with  a special affinity for the unique role of sex chromosomes and meiotic drive.</p>
 </header>
 </div>
+							<ul class="icons major">
+								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
+							</ul>
+
 </section>
 
 <!-- Two -->
