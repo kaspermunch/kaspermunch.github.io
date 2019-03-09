@@ -19,10 +19,10 @@ layout: landing
 </header>
 </div>
 	<ul class="icons major">
-	<li style="text-decoration: none">
+	<li>
     <a href="people.html" style="text-decoration: none">
-    <span class="icon fa-users major style1">
-    <span class="label">Lorem</span></span>
+    <span style="text-decoration: none"class="icon fa-users major style1">
+    <span style="text-decoration: none" class="label">Lorem</span></span>
     </a>
     </li>
 	<li><span class="icon fa-university major style2"><span class="label">Ipsum</span></span></li>
