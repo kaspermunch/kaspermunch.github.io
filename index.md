@@ -19,7 +19,7 @@ layout: landing
 </header>
 </div>
 							<ul class="icons major">
-								<li><a href="people.html"><span class="icon fa-users  major style1"><span class="label">Lorem</span></span></a>
+								<li><a href="people.html"><span class="icon fa-users  major style1"></a><span class="label">Lorem</span></span>
                                 </li>
 								<li><span class="icon fa-university    major style2"><span class="label">Ipsum</span></span></li>
 								<li><span class="icon fa-envelope-o  major style3"><span class="label">Dolor</span></span></li>
