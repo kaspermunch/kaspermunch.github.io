@@ -19,7 +19,8 @@ layout: landing
 </header>
 </div>
 							<ul class="icons major">
-								<li><span class="icon fa-users  major style1"><span class="label">Lorem</span></span></li>
+								<li><a href="popular_science.html"><span class="icon fa-users  major style1"><span class="label">Lorem</span></span></a>
+                                </li>
 								<li><span class="icon fa-university    major style2"><span class="label">Ipsum</span></span></li>
 								<li><span class="icon fa-envelope-o  major style3"><span class="label">Dolor</span></span></li>
 							</ul>
@@ -53,7 +54,7 @@ Whenever we publish new results in journals, we strive to also present our findi
 <div class="inner">
 <header class="major">
 <h2>Publications</h2>
-<p>See the full list of publications from the group <a href="publications.html">here</a>.</p>
+<p>See the full list of publications from the group <a href="publications.html">here</a> and some recent ones below.</p>
 </header>
 <ul class="features">
 <li class="icon fa-newspaper-o">
