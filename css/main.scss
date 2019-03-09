@@ -464,7 +464,6 @@ $baseurl: '{{ site.baseurl }}/images';
 		@include icon;
 		border-bottom: none;
 		position: relative;
-		text-decoration: none;
 
 		> .label {
 			display: none;

@@ -20,7 +20,7 @@ layout: landing
 </div>
 	<ul class="icons major">
 	<li>
-    <a href="people.html">
+    <a href="people.html" style="border-bottom-color: transparent;">
     <span class="icon fa-users major style1"></span>
     </a>
     </li>
