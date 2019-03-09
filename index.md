@@ -29,7 +29,7 @@ Our goal is to understand how mutation, selection and recombination together sha
 </div>
 </section>
 <section class="spotlight">
-<div class="image"><img src="images/code.png" /></div><div class="content">
+<div class="image"><img src="images/research.png" /></div><div class="content">
 <h2>Software</h2>
 New computational approaches are distributed as scientific software and libraries. <a href="software.html">Read more here.</a>.
 </div>
