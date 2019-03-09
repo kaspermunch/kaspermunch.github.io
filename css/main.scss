@@ -464,6 +464,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		@include icon;
 		border-bottom: none;
 		position: relative;
+		text-decoration: none;
 
 		> .label {
 			display: none;
@@ -479,7 +480,6 @@ $baseurl: '{{ site.baseurl }}/images';
 			line-height: 3em;
 			text-align: center;
 			width: calc(3em + 2px);
-			text-decoration: none;
 
 			&:before {
 				@include vendor('transform', 'rotate(45deg)');
