@@ -37,13 +37,13 @@ Our goal is to understand how mutation, selection and recombination together sha
 <section class="spotlight">
 <div class="image"><img src="images/code.png" /></div><div class="content">
 <h2>Software</h2>
-New computational approaches are distributed as scientific software and programming libraries. <a href="software.html">Read more here.</a>
+When our computational approaches are usefull as tools for other researchers, we make them available as web servers, scientific software, or programming libraries. <a href="software.html">Read more here.</a>
 </div>
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/public.jpg" /></div><div class="content">
 <h2>Popular Science</h2>
-Whenever we publish new findings, we strive to explain our results to the public. <a href="popular_science.html">Read more here.</a>
+Whenever we publish new results in journals, we strive to also present our findings in a way that is accessible the general public - often in the form of a blog post on these pages. <a href="popular_science.html">Read more here.</a>
 </div>
 </section>
 </section>
