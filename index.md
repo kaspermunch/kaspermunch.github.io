@@ -20,8 +20,8 @@ layout: landing
 </div>
 	<ul class="icons major">
 	<li><a href="people.html" style="border-bottom-color: transparent;"><span class="icon fa-users major style1"><span class="label">People</span></span></a></li>
-	<li><a href="people.html" style="border-bottom-color: transparent;"><span class="icon fa-university major style2"><span class="label">Aarhus University</span></span></a></li>
-	<li><a href="people.html" style="border-bottom-color: transparent;"><span class="icon fa-envelope-o major style3"><span class="label">Email</span></span></a></li>
+	<li><a href="http://www.birc.au.dk" style="border-bottom-color: transparent;"><span class="icon fa-university major style2"><span class="label">Aarhus University</span></span></a></li>
+	<li><a href="mailto:kaspermunch@birc.au.dk" style="border-bottom-color: transparent;"><span class="icon fa-envelope-o major style3"><span class="label">Email</span></span></a></li>
 	</ul>
 
 </section>
