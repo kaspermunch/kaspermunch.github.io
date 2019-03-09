@@ -19,9 +19,9 @@ layout: landing
 </header>
 </div>
 							<ul class="icons major">
-								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
-								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
-								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
+								<li><span class="icon fa-users  major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-address-card  major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon fa-envelope-o  major style3"><span class="label">Dolor</span></span></li>
 							</ul>
 
 </section>
