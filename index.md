@@ -19,7 +19,7 @@ layout: landing
 </header>
 </div>
 	<ul class="icons major">
-	<li>
+	<li style="text-decoration: none">
     <a href="people.html" style="text-decoration: none">
     <span class="icon fa-users major style1">
     <span class="label">Lorem</span></span>
