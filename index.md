@@ -42,7 +42,7 @@ When our computational approaches are usefull as tools for other researchers, we
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/public.jpg" /></div><div class="content">
-<h2>Popular Science</h2>
+<h2>Science for everyone</h2>
 Whenever we publish new results in journals, we strive to also present our findings in a way that is accessible the general public - often in the form of a blog post on these pages. <a href="popular_science.html">Read more here.</a>
 </div>
 </section>
