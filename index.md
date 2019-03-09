@@ -31,19 +31,19 @@ layout: landing
 <section class="spotlight">
 <div class="image"><img src="images/lemur.png" /></div><div class="content">
 <h2>Research</h2>
-Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. <a href="research.html">Read more here.</a>.
+Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. Most of our research is on humans and primates. <a href="research.html">Read more here.</a>
 </div>
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/research.png" /></div><div class="content">
 <h2>Software</h2>
-New computational approaches are distributed as scientific software and libraries. <a href="software.html">Read more here.</a>.
+New computational approaches are distributed as scientific software and libraries. <a href="software.html">Read more here.</a>
 </div>
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/public.jpg" /></div><div class="content">
 <h2>Popular Science</h2>
-Whenever we publish new findings, we strive to explain our results to the public. <a href="popular_science.html">Read more here.</a>.
+Whenever we publish new findings, we strive to explain our results to the public. <a href="popular_science.html">Read more here.</a>
 </div>
 </section>
 </section>
