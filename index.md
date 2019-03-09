@@ -14,8 +14,8 @@ layout: landing
 <section id="one" class="wrapper style1 special">
 <div class="inner">
 <header class="major">
-<h2>The research group</h2>
-<p>The group is located at the Bioinformatics Centre (BiRC) at Aarhus University. We use population genomic analysis and modelling to address the fundamental mechanisms of evolution - with  a special affinity for the unique role of sex chromosomes and meiotic drive.</p>
+<h2>A research group at the Bioinformatics Centre (BiRC) at Aarhus University.</h2>
+<p>We use population genomic analysis and modelling to address the fundamental mechanisms of evolution - with  a special affinity for the unique role of sex chromosomes and meiotic drive.</p>
 </header>
 </div>
 </section>
