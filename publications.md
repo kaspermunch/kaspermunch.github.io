@@ -7,7 +7,6 @@ title: Publications
 
 <p><strong>The comparative genomics and complex population history of <em>Papio</em> baboons</strong><br>
 Rogers J, Raveendran M, Harris A, Mailund T, Leppälä K, Athanasiadis G, Schierup MH, Cheng J, <span style="text-decoration:underline;">Munch K</span>, Walker JA, Konkel MK, Jordan V, Steely CJ, Beckstrom TO, Bergey C, Burrell A, Schrempf D, Noll A, Kothe M, Kopp GH, Liu Y, Murali A, Billis K, Martin FJ, Muffato M, Cox L, Else J, Disotell T, Muzny DM, Phillips-Conroy J, Aken B, Eichler EE, Marques-Bonet T, Kosiol C, Batzer MA, Hahn MW, Tung J, Zinner D, Roos C, Jolly CJ, Gibbs RA, Worley KC, and the Baboon Genome Analysis Consortium<br>
-<strong>Science Advances</strong> (2019)</p>
 <a href="http://advances.sciencemag.org/content/5/1/eaau6947"><strong>Science Advances</strong> (2019)</a></p>
 
 <p><strong>Dynamic Copy Number Evolution of X- and Y-Linked Ampliconic Genes in Human Populations</strong><br>
@@ -42,9 +41,9 @@ Bataillon T, Duan J, Hvilsom C, Jin X, Li X, Skov L, Glemin S, <span style="text
 Stevison LS, Woerner AE, Kidd JM, Kelley JL, Veeramah KR, McManus KF, <span style="text-decoration:underline;">Great Ape Genome Project</span>, Bustamante CD, Hammer MF, Wall JD<br>
 <b><a href="http://mbe.oxfordjournals.org/content/33/4/928">Molecular Biology and Evolution</a></b><a href="http://mbe.oxfordjournals.org/content/33/4/928"> (2015)</a></p>
 
-<div class="wp-block-image"><figure class="alignleft"><a href="https://kaspermunch.files.wordpress.com/2013/07/2014-12-12-cover-avian.png"><img src="https://kaspermunch.files.wordpress.com/2013/07/2014-12-12-cover-avian.png?w=236" alt="2014-12-12-Cover-Avian" class="wp-image-718"/></a></figure></div>
 
-<p><strong>Whole Genome Analyses Resolve Early Branches in the Tree of Life of Modern Birds</strong><br>
+
+<p><span class="image right"><img src="images/sciencecover.png" width="100"  /></span><strong>Whole Genome Analyses Resolve Early Branches in the Tree of Life of Modern Birds</strong><br>
 Jarvis ED, Mirarab S, Aberer AJ, Li B, Houde P, Li C, Ho SYW, Faircloth BC, Nabholz B, Howard JT, Suh A, Weber CC, Fonseca RRd, Li J, Zhang F, Li H, Zhou L, Narula N, Liu L, Ganapathy G, Boussau B, Bayzid MdS, Zavidovych V, Subramanian S, Gabaldón T, Capella-Gutiérrez S, Huerta-Cepas J, Rekepalli B, <span style="text-decoration:underline;">Munch K</span>, Schierup M, Lindow B, Warren WC, Ray D, Green RE, Bruford M, Zhan X, Dixon A, Li S, Li N, Huang Y, Derryberry EP, Bertelsen MF, Sheldon FH, Brumfield RT, Mello CV, Lovell PV, Wirthlin M, Schneider MPC, Prosdocimi F, Samaniego JA, Velazquez AMV, Alfaro-Núñez A, Campos PF, Petersen B, Sicheritz-Ponten T, Pas A, Bailey T, Scofield P, Bunce M, Lambert DM, Zhou Q, Perelman R, Driskell AC, Shapiro B, Xiong Z, Zeng Y, Liu S, Li Z, Liu B, Wu K, Xiao J, Yinqi X, Zheng Q, Zhang Y, Yang H, Wang J, Smeds L, Rheindt FE, Braun M, Fjeldsa J, Orlando L, Barker K, Jønsson KA, Johnson W, Koepfli KP, OBrien S, Haussler D, Ryder OA, Rahbek C, Willerslev E, Graves GR, Glenn TC, McCormack J, Burt D, Ellegren H, Alström P, Edwards SW, Stamatakis A, Mindell DP, Cracraft J, Braun EL, Warnow T, Jun W, Gilbert MTP, Zhang G<br>
 <a href="http://www.sciencemag.org/content/346/6215/1320.abstract"><strong>Science</strong> (2014)</a></p>
 
