@@ -10,8 +10,7 @@ title: People
 
 <p><span class="image right"><img src="images/kasper.jpg"  width="50" /></span> Associate professor at the Bioinformatics Research Centre (BiRC) at Aarhus University. Most research use population genomics approaches to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Most work is done on great apes and other primates.</p>
 
-[CV]() - 
-[ORCID Profile](http://orcid.org/) - 
+[ORCID Profile](https://orcid.org/0000-0003-2880-6252) - 
 [kaspermunch@birc.au.dk](mailto:kaspermunch@birc.au.dk)
 
 
