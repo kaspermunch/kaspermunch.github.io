@@ -55,9 +55,7 @@ Mailund T, <span style="text-decoration:underline;">Munch K</span>, Schierup MH<
 Jacobsen LMW, Pujolar JM, Bernatchez L, <span style="text-decoration:underline;">Munch K</span>, Jian J, Niu Y, Hansen MM.<br>
 <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.12896/abstract"><strong>Molecular Ecology</strong>&nbsp;(2014)</a></p>
 
-<div class="wp-block-image"><figure class="alignleft"><a href="https://kaspermunch.files.wordpress.com/2013/07/cover.gif"><img src="https://kaspermunch.files.wordpress.com/2013/07/cover.gif" alt="cover" class="wp-image-521"/></a></figure></div>
-
-<p><strong>Unraveling recombination rate evolution using ancestral recombination maps&nbsp;</strong>(Comissioned review)<br>
+<p><span class="image right"><img src="images/bioessays.gif" width="100"  /></span><strong>Unraveling recombination rate evolution using ancestral recombination maps&nbsp;</strong>(Comissioned review)<br>
 <span style="text-decoration:underline;">Munch K</span>, Schierup MH, Mailund T<br>
 <a href="http://doi.wiley.com/10.1002/bies.201400047"><strong>BioEssays</strong>&nbsp;(2014)</a></p>
 
