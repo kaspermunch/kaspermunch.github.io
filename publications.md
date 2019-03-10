@@ -142,5 +142,11 @@ Haile J, Holdaway R, Oliver K, Bunce M, Gilbert MT, Nielsen R, <span style="text
 <span style="text-decoration:underline;">Munch K</span>, Gardner PP, Arctander P, and Krogh A<br>
 <a href="http://www.biomedcentral.com/1471-2105/7/239/abstract"><strong>BMC Bioinformatics</strong>&nbsp;(2006)</a></p>
 
+## Book chapters
+
+<!-- <p><strong>Population genomics in the great apes</strong><br>
+<span style="text-decoration:underline;">Castellano C</span> <span style="text-decoration:underline;">Munch K</span><br>
+<strong>Statistical Population Genetics, Springer</strong> (2019)</p> -->
+
 ## Other publications
 
