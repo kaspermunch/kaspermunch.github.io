@@ -18,11 +18,11 @@ Lucotte EA, Skov L, Jensen JM, Macià MC, <span style="text-decoration:underline
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/29769284"><strong>Genetics</strong> (2018)</a></p>
 
 <p><strong>A computational reconstruction of <em>Papio</em> phylogeny using Alu insertion polymorphisms</strong><br>
-Jordan VE, Walker JA, Beckstrom TO, Steely CJ, McDaniel CL, St. Romain CP, The Baboon Genome Analysis Consortium, Worley KC, Phillips-Conroy J, Jolly CJ, Rogers J, Konkel MK, Batzer MA<br>
+Jordan VE, Walker JA, Beckstrom TO, Steely CJ, McDaniel CL, St. Romain CP, <span style="text-decoration:underline;">The Baboon Genome Analysis Consortium</span>, Worley KC, Phillips-Conroy J, Jolly CJ, Rogers J, Konkel MK, Batzer MA<br>
 <a href="https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-018-0118-3"><strong>Mobile DNA</strong> (2018)</a></p>
 
 <p><strong>Analysis of lineage-specific Alu subfamilies in the genome of the olive baboon, <em>Papio anubis</em></strong><br>
-Steely CJ, Baker JN, Walker JA, Loupe III CD, The Baboon Genome Analysis Consortium, Batzer MA<br>
+Steely CJ, Baker JN, Walker JA, Loupe III CD, <span style="text-decoration:underline;">The Baboon Genome Analysis Consortium</span>, Batzer MA<br>
 <a href="https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-018-0115-6"><strong>Mobile DNA</strong> (2018)</a></p>
 
 <p><strong>A comprehensive genomic history of extinct and living elephants</strong><br>
