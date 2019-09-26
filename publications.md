@@ -5,6 +5,10 @@ title: Publications
 
 ## Peer reviewed publications
 
+<p><strong>Comparison of the full distribution of fitness effects of new amino acid mutations across great apes</strong><br>
+Castellano D, Macià MC, Tataru P, Bataillon T, <span style="text-decoration:underline;">Munch K</span><br>
+<a href="https://www.genetics.org/content/early/2019/09/05/genetics.119.302494.long"><strong>Genetics</strong> (2019)</a></p>
+
 <p><strong>The comparative genomics and complex population history of <em>Papio</em> baboons</strong><br>
 Rogers J, Raveendran M, Harris A, Mailund T, Leppälä K, Athanasiadis G, Schierup MH, Cheng J, <span style="text-decoration:underline;">Munch K</span>, Walker JA, Konkel MK, Jordan V, Steely CJ, Beckstrom TO, Bergey C, Burrell A, Schrempf D, Noll A, Kothe M, Kopp GH, Liu Y, Murali A, Billis K, Martin FJ, Muffato M, Cox L, Else J, Disotell T, Muzny DM, Phillips-Conroy J, Aken B, Eichler EE, Marques-Bonet T, Kosiol C, Batzer MA, Hahn MW, Tung J, Zinner D, Roos C, Jolly CJ, Gibbs RA, Worley KC, and the Baboon Genome Analysis Consortium<br>
 <a href="http://advances.sciencemag.org/content/5/1/eaau6947"><strong>Science Advances</strong> (2019)</a></p>
@@ -12,6 +16,14 @@ Rogers J, Raveendran M, Harris A, Mailund T, Leppälä K, Athanasiadis G, Schier
 <p><strong>Dynamic Copy Number Evolution of X- and Y-Linked Ampliconic Genes in Human Populations</strong><br>
 Lucotte EA, Skov L, Jensen JM, Macià MC, <span style="text-decoration:underline;">Munch K</span>, Schierup MH<br>
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/29769284"><strong>Genetics</strong> (2018)</a></p>
+
+<p><strong>A computational reconstruction of <em>Papio</em> phylogeny using Alu insertion polymorphisms</strong><br>
+Jordan VE, Walker JA, Beckstrom TO, Steely CJ, McDaniel CL, St. Romain CP, The Baboon Genome Analysis Consortium, Worley KC, Phillips-Conroy J, Jolly CJ, Rogers J, Konkel MK, Batzer MA<br>
+<a href="https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-018-0118-3"><strong>Mobile DNA</strong> (2018)</a></p>
+
+<p><strong>Analysis of lineage-specific Alu subfamilies in the genome of the olive baboon, <em>Papio anubis</em></strong><br>
+Steely CJ, Baker JN, Walker JA, Loupe III CD, The Baboon Genome Analysis Consortium, Batzer MA<br>
+<a href="https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-018-0115-6"><strong>Mobile DNA</strong> (2018)</a></p>
 
 <p><strong>A comprehensive genomic history of extinct and living elephants</strong><br>
 Palkopoulou E, Lipson M, Mallick S, Nielsen S, Rohland N, Baleka S, Karpinski E, Ivancevic AM, To TH, R. Kortschak D, Raison JM, Qu Z, Chin TJ, Alt KW, Claesson S, Dalén L, MacPhee RDE, Meller H, Roca AL, Ryder OA, Heiman D, Young S, Breen M, Williams C, Aken BL, Ruffier M, Karlsson E, Johnson J, Palma FD, Alfoldi J, Adelson DL, Mailund T, <span style="text-decoration:underline;">Munch K</span>, Lindblad-Toh K, Hofreiter M, Poinar H, Reich D<br>
@@ -40,8 +52,6 @@ Bataillon T, Duan J, Hvilsom C, Jin X, Li X, Skov L, Glemin S, <span style="text
 <p><strong>The Time-Scale Of Recombination Rate Evolution In Great Apes</strong><br>
 Stevison LS, Woerner AE, Kidd JM, Kelley JL, Veeramah KR, McManus KF, <span style="text-decoration:underline;">Great Ape Genome Project</span>, Bustamante CD, Hammer MF, Wall JD<br>
 <b><a href="http://mbe.oxfordjournals.org/content/33/4/928">Molecular Biology and Evolution</a></b><a href="http://mbe.oxfordjournals.org/content/33/4/928"> (2015)</a></p>
-
-
 
 <p><span class="image right"><img src="images/sciencecover.png" width="100"  /></span><strong>Whole Genome Analyses Resolve Early Branches in the Tree of Life of Modern Birds</strong><br>
 Jarvis ED, Mirarab S, Aberer AJ, Li B, Houde P, Li C, Ho SYW, Faircloth BC, Nabholz B, Howard JT, Suh A, Weber CC, Fonseca RRd, Li J, Zhang F, Li H, Zhou L, Narula N, Liu L, Ganapathy G, Boussau B, Bayzid MdS, Zavidovych V, Subramanian S, Gabaldón T, Capella-Gutiérrez S, Huerta-Cepas J, Rekepalli B, <span style="text-decoration:underline;">Munch K</span>, Schierup M, Lindow B, Warren WC, Ray D, Green RE, Bruford M, Zhan X, Dixon A, Li S, Li N, Huang Y, Derryberry EP, Bertelsen MF, Sheldon FH, Brumfield RT, Mello CV, Lovell PV, Wirthlin M, Schneider MPC, Prosdocimi F, Samaniego JA, Velazquez AMV, Alfaro-Núñez A, Campos PF, Petersen B, Sicheritz-Ponten T, Pas A, Bailey T, Scofield P, Bunce M, Lambert DM, Zhou Q, Perelman R, Driskell AC, Shapiro B, Xiong Z, Zeng Y, Liu S, Li Z, Liu B, Wu K, Xiao J, Yinqi X, Zheng Q, Zhang Y, Yang H, Wang J, Smeds L, Rheindt FE, Braun M, Fjeldsa J, Orlando L, Barker K, Jønsson KA, Johnson W, Koepfli KP, OBrien S, Haussler D, Ryder OA, Rahbek C, Willerslev E, Graves GR, Glenn TC, McCormack J, Burt D, Ellegren H, Alström P, Edwards SW, Stamatakis A, Mindell DP, Cracraft J, Braun EL, Warnow T, Jun W, Gilbert MTP, Zhang G<br>
@@ -144,9 +154,9 @@ Haile J, Holdaway R, Oliver K, Bunce M, Gilbert MT, Nielsen R, <span style="text
 
 ## Book chapters
 
-<!-- <p><strong>Population genomics in the great apes</strong><br>
+<p><strong>Population genomics in the great apes</strong><br>
 <span style="text-decoration:underline;">Castellano C</span> <span style="text-decoration:underline;">Munch K</span><br>
-<strong>Statistical Population Genetics, Springer</strong> (2019)</p> -->
+<strong>Statistical Population Genetics, Springer</strong> (2019)</p>
 
 ## Other publications
 
