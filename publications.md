@@ -5,6 +5,10 @@ title: Publications
 
 ## Peer reviewed publications
 
+<p><strong>Impact of mutation rate and selection at linked sites on DNA variation across the genomes of humans and other homininae</strong><br>
+Castellano D, Eyre-Walker A, <span style="text-decoration:underline;">Munch K</span><br>
+<a href="https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz215/5584269"><strong>Genome Biology and Evolution</strong> (2019)</a></p>
+
 <p><strong>Comparison of the full distribution of fitness effects of new amino acid mutations across great apes</strong><br>
 Castellano D, Macià MC, Tataru P, Bataillon T, <span style="text-decoration:underline;">Munch K</span><br>
 <a href="https://www.genetics.org/content/early/2019/09/05/genetics.119.302494.long"><strong>Genetics</strong> (2019)</a></p>
