@@ -35,15 +35,15 @@ Our goal is to understand how mutation, selection and recombination together sha
 </div>
 </section>
 <section class="spotlight">
-<div class="image"><img src="images/code.png" /></div><div class="content">
+<div class="image"><img src="images/laptop_cropped.jpg" /></div><div class="content">
 <h2>Software</h2>
 We make computational approaches available as web servers, scientific software, or programming libraries. <a href="software.html">Read more here.</a>
 </div>
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/public.jpg" /></div><div class="content">
-<h2>Science for everyone</h2>
-Whenever we publish new results in journals, we strive to also present our findings in a way that is accessible the general public. <a href="popular_science.html">Read more here.</a>
+<h2>Popular science</h2>
+We strive to present our findings in a way that is accessible the general public. <a href="popular_science.html">Read more here.</a>
 </div>
 </section>
 </section>
