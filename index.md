@@ -6,6 +6,9 @@ layout: landing
 <div class="inner">
 <h2>{{ site.title }}</h2>
 <p>{{ site.description | markdownify }}</p>
+	<ul class="actions special">
+		<li><a href="#" class="button primary">We are hiring</a></li>
+	</ul>
 </div>
 <a href="#one" class="more scrolly">Learn More</a>
 </section>
