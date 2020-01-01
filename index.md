@@ -31,7 +31,7 @@ layout: landing
 <section class="spotlight">
 <div class="image"><img src="images/lemur.png" /></div><div class="content">
 <h2>Research</h2>
-Our goal is to understand how mutation, selection and recombination together shape genetic variation, the evolution of genomes and the formation of new species. <a href="research.html">Read more here.</a>
+We work on how selection and recombination together shape genetic variation, the evolution of genomes, and the formation of new species. <a href="research.html">Read more here.</a>
 </div>
 </section>
 <section class="spotlight">
@@ -41,7 +41,7 @@ We make computational approaches available as web servers, scientific software, 
 </div>
 </section>
 <section class="spotlight">
-<div class="image"><img src="images/public.jpg" /></div><div class="content">
+<div class="image"><img src="images/olive_baboon.jpg" /></div><div class="content">
 <h2>Science posts from the group</h2>
 We strive to present our findings in a way accessible to wider audience. <a href="popular_science.html">Read more here.</a>
 </div>
