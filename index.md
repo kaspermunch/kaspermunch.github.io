@@ -42,8 +42,8 @@ We make computational approaches available as web servers, scientific software, 
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/public.jpg" /></div><div class="content">
-<h2>Popular science</h2>
-We strive to present our findings in a way that is accessible the general public. <a href="popular_science.html">Read more here.</a>
+<h2>Science posts from the group</h2>
+We strive to present our findings in a way accessible to wider audience. <a href="popular_science.html">Read more here.</a>
 </div>
 </section>
 </section>
@@ -57,12 +57,12 @@ We strive to present our findings in a way that is accessible the general public
 </header>
 <ul class="features">
 <li class="icon fa-newspaper-o">
-<h3>The comparative genomics and complex population history of <em>Papio</em> baboons</h3>
-Read it in <a href="http://advances.sciencemag.org/content/5/1/eaau6947">Science Advances</a>.
+<h3>Comparison of the full distribution of fitness effects of new amino acid mutations across great apes</h3>
+Read it in <a href="https://www.genetics.org/content/213/3/953.full">Genetics</a>.
 </li>
 <li class="icon fa-newspaper-o">
-<h3>A comprehensive genomic history of extinct and living elephants</h3>
-Read it in <a href="https://www.pnas.org/content/115/11/E2566">PNAS</a>.
+<h3>Impact of mutation rate and selection at linked sites on DNA variation across the genomes of humans and other homininae</h3>
+Read it in <a href="https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz215/5584269">Genome Biology and Evolution</a>.
 </li>
 </ul>
 </div>
