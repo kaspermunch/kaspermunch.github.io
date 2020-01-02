@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join the group
+title: Join us
 ---
 
 ## Open positions
