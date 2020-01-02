@@ -13,5 +13,5 @@ The Danish and European funding systems provide postdoc funding for foreign earl
 
 ## Open positions
 
-We are looking for a new Ph.D. student. [Send me an email](mailto:kaspermunch@birc.au.dk) if you are interested.
+We are looking for a new Ph.D. student to work on the population genetics of meiotic drive and hybrid incompatibility in humans and other primates. [Send me an email](mailto:kaspermunch@birc.au.dk) if you are interested.
 
