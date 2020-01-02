@@ -9,7 +9,7 @@ We are looking for a new Ph.D. student to work on the population genetics of mei
 
 ## Postdoc collaborations
 
-The Danish and European funding systems provide postdoc funding for foreign early career researchers. If you share our research interests, As PI I am always happy to help develop a postdoc application to join the group. Fell free to [send me an email](mailto:kaspermunch@birc.au.dk).
+The Danish and European funding systems provide postdoc funding for foreign early career researchers. If you share our research interests, I am always happy to help develop a postdoc application to join the group. Fell free to [send me an email](mailto:kaspermunch@birc.au.dk).
 
 ## The Bioinformatics Research Centre (BiRC)
 
