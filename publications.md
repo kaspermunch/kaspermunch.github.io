@@ -160,5 +160,5 @@ Haile J, Holdaway R, Oliver K, Bunce M, Gilbert MT, Nielsen R, <span style="text
 
 <p><strong>Population genomics in the great apes</strong><br>
 Castellano C <span style="text-decoration:underline;">Munch K</span><br>
-<strong>Statistical Population Genetics, Springer</strong> (2019)</p>
+<a href="https://link.springer.com/book/10.1007/978-1-0716-0199-0"><strong>Statistical Population Genetics, Springer</strong>&nbsp;(2020)</a></p>
 
