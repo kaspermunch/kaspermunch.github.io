@@ -13,6 +13,6 @@ The Danish and European funding systems provide postdoc funding for foreign earl
 
 ## The Bioinformatics Research Centre (BiRC)
 
-BiRC provides an interdisciplinary research environment with a strong emphasis on molecular evolution, molecular population genetics, and statistical and algorithmic approaches to bioinformatics, and our topics spans theoretical questions, program development, applications, and data analysis. BiRC is currently home to 25 researchers (professors, postdocs, and Ph.D. students). Read more about BiRC on the [BiRC homepage](https://birc.au.dk).
+BiRC provides an interdisciplinary research environment with a strong emphasis on molecular evolution, molecular population genetics, and statistical and algorithmic approaches to bioinformatics Research topics span theoretical questions, program development, and data analysis. BiRC is currently home to 25 researchers (professors, postdocs, and Ph.D. students). Read more about BiRC on the [BiRC homepage](https://birc.au.dk).
 
 
