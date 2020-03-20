@@ -538,6 +538,15 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 
+		&.leftsmall,
+		&.rightsmall {
+			max-width: 20%;
+
+			img {
+				width: 100%;
+			}
+		}
+
 		&.fit {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
