@@ -16,7 +16,7 @@ title: People
     <h3>MSc student: Tobias Røikjer</h3>
 </header>
 
-<p><span class="image left"><img src="images/tobias.png" /></span>Tobias works on a graph based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute joint distribution of the site frequency spectrum in both a single population and in an isolation with migration model.</p>
+<p><span class="image left"><img src="images/tobias.png" /></span>Tobias works on a graph-based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute the joint distribution of the site frequency spectrum in both a single population and in an isolation -with-migration model.</p>
 
 [ORCID Profile](http://orcid.org/)
 
