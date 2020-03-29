@@ -13,6 +13,10 @@ Castellano D, Eyre-Walker A, <span style="text-decoration:underline;">Munch K</s
 Castellano D, Macià MC, Tataru P, Bataillon T, <span style="text-decoration:underline;">Munch K</span><br>
 <a href="https://www.genetics.org/content/early/2019/09/05/genetics.119.302494.long"><strong>Genetics</strong> (2019)</a></p>
 
+<p><strong>Alu insertion polymorphisms shared by Papio baboons and Theropithecus gelada reveal an intertwined common ancestry</strong><br>
+Walker JA, Jordan VE, Storer JM, Steely CJ, Gonzalez-Quiroga P, Beckstrom TO, Rewerts LC, St Romain CP, Rockwell CE, Rogers J, Jolly CJ, Konkel MK, Batzer MA, Harris RA, Raveendran M, Liu Y, Murali S, Vilgalys TP, Thomas GWC, Pagel KA, Pejaver V, Catacchio CR, Archidiacono N, Ventura M, Marra-Campanale A, Palazzo A, Capozzi O, Raja A, Huddleston J, Quick VS, Karimpour-Fard A, Schrempf D, de Manuel Montero M, Billis K, Martin FJ, Muffato M, Athanasiadis G, Bergey C, Burrell A, Cheng J, Cox L, Else J, Han Y, Kopp GH, Kothe M, Leppala K, Noll A, Pecotte J, Pipes L, Rice K, Mason CE, Disotell T, Phillips-Conroy J, Walter L, <span style="text-decoration:underline;">Munch K</span>, Mailund T, Schierup M, Kosiol C, Vinar T, Sikela JM, Zinner D, Roos C, Radivojac P, Stanyon R, Rocchi M, Eichler EE, Aken B, Hahn MW, Marques-Bonet T, Tung J, Muzny DM, Gibbs RA, Worley KC<br>
+<a href="https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-019-0187-y"><strong>Mobile DNA</strong> (2019)</a></p>
+
 <p><strong>The comparative genomics and complex population history of <em>Papio</em> baboons</strong><br>
 Rogers J, Raveendran M, Harris A, Mailund T, Leppälä K, Athanasiadis G, Schierup MH, Cheng J, <span style="text-decoration:underline;">Munch K</span>, Walker JA, Konkel MK, Jordan V, Steely CJ, Beckstrom TO, Bergey C, Burrell A, Schrempf D, Noll A, Kothe M, Kopp GH, Liu Y, Murali A, Billis K, Martin FJ, Muffato M, Cox L, Else J, Disotell T, Muzny DM, Phillips-Conroy J, Aken B, Eichler EE, Marques-Bonet T, Kosiol C, Batzer MA, Hahn MW, Tung J, Zinner D, Roos C, Jolly CJ, Gibbs RA, Worley KC, and the Baboon Genome Analysis Consortium<br>
 <a href="http://advances.sciencemag.org/content/5/1/eaau6947"><strong>Science Advances</strong> (2019)</a></p>
@@ -37,9 +41,17 @@ Palkopoulou E, Lipson M, Mallick S, Nielsen S, Rohland N, Baleka S, Karpinski E,
 Nam K, <span style="text-decoration:underline;">Munch K</span>, Mailund T, Nater A, Greminger M, Krützen M, Marquès-Bonet T, Schierup MH<br>
 <strong><a href="http://www.pnas.org/content/early/2017/01/25/1605660114.full.pdf?sid=9c738bfe-20ef-4739-9831-eb395b70332f">PNAS</a></strong><a href="http://www.pnas.org/content/early/2017/01/25/1605660114.full.pdf?sid=9c738bfe-20ef-4739-9831-eb395b70332f">&nbsp;(2017)</a></p>
 
+<p><strong>Alu insertion polymorphisms as evidence for population structure in baboons</strong><br>
+Steely CJ, Walker JA, Jordan VE, Beckstrom TO, McDaniel CL, St Romain CP, Bennett EC, Robichaux A, Clement BN, Raveendran M, Worley KC, Phillips-Conroy J, Jolly CJ, Rogers J, Konkel MK, Batzer MA, Liu Y, Murali S, Vilgalys TP, Walker JA, Konkel MK, Jordan VE, Steely CJ, Beckstrom TO, Thomas GWC, Pagel KA, Pejaver V, Catacchio CR, Archidiacono N, Ventura M, Marra-Campanale A, Palazzo A, Capozzi O, Raja A, Huddleston J, Quick VS, Karimpour-Fard A, Schrempf D, de Manuel Montero M, Billis K, Martin FJ, Muffato M, Athanasiadis G, Bergey C, Burrell A, Cheng J, Cox L, Else J, Han Y, Kopp GH, Kothe M, Leppala K, Noll A, Pecotte J, Pipes L, Rice K, Mason CE, Disotell T, Phillips-Conroy J, Walter L, <span style="text-decoration:underline;">Munch K</span>, Mailund T, Schierup M, Kosiol C, Vinar T, Sikela JM, Zinner D, Roos C, Jolly CJ, Radivojac P, Stanyon R, Rocchi M, Eichler EE, Aken B, Hahn MW, Batzer MA, Marques-Bonet T, Tung J, Muzny DM, Gibbs RA, Worley KC<br>
+<strong><a href="https://academic.oup.com/gbe/article/9/9/2418/4107939">Genome Biology and Evolution</a><strong>&nbsp;(2017)</a></p>
+
+<p><strong>Papio baboon species indicative Alu elements</strong><br>
+Walker JA, Jordan VE, Steely CJ, Beckstrom TO, McDaniel CL, St Romain CP, Bennett EC, Robichaux A, Clement BN, Konkel MK, Batzer MA, Rogers J, Harris RA, Raveendran M, Liu Y, Murali S, Vilgalys TP, Walker JA, Konkel MK, Jordan VE, Steely CJ, Beckstrom TO, Thomas GWC, Pagel KA, Pejaver V, Catacchio CR, Archidiacono N, Ventura M, Marra-Campanale A, Palazzo A, Capozzi O, Raja A, Huddleston J, Quick VS, Karimpour-Fard A, Schrempf D, de Manuel Montero M, Billis K, Martin FJ, Muffato M, Athanasiadis G, Bergey C, Burrell A, Cheng J, Cox L, Else J, Han Y, Kopp GH, Kothe M, Leppala K, Noll A, Pecotte J, Pipes L, Rice K, Mason CE, Disotell T, Phillips-Conroy J, Walter L, <span style="text-decoration:underline;">Munch K</span>, Mailund T, Schierup M, Kosiol C, Vinar T, Sikela JM, Zinner D, Roos C, Jolly CJ, Radivojac P, Stanyon R, Rocchi M, Eichler EE, Aken B, Hahn MW, Batzer MA, Marques-Bonet T, Tung J, Muzny DM, Gibbs RA, Worley KC<br>
+<strong><a href="https://academic.oup.com/gbe/article/9/6/1788/3965007">Genome Biology and Evolution</a><strong>&nbsp;(2017)</a></p>
+
 <p><strong>Selective Sweeps across Twenty Million Years of Primate Evolution</strong><br>
 <span style="text-decoration:underline;"> Munch K</span>, Nam K, Schierup MH, Mailund M<br>
-<a href="http://mbe.oxfordjournals.org/content/33/12/3065"><strong>Molecular Biology and Evolution</strong>&nbsp;(2016)</a></p>
+<a href="http://mbeoxfordjournalsorg/content/33/12/3065"><strong>Molecular Biology and Evolution</strong>&nbsp;(2016)</a></p>
 
 <p><strong>Strong selective sweeps on the X chromosome in the human-chimpanzee ancestor explain its low divergence</strong><br>
 Dutheil JY, <span style="text-decoration:underline;">Munch K</span>, Nam K, Mailund T, Schierup MH<br>
