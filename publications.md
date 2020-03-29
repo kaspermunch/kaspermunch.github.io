@@ -51,7 +51,7 @@ Walker JA, Jordan VE, Steely CJ, Beckstrom TO, McDaniel CL, St Romain CP, Bennet
 
 <p><strong>Selective Sweeps across Twenty Million Years of Primate Evolution</strong><br>
 <span style="text-decoration:underline;"> Munch K</span>, Nam K, Schierup MH, Mailund M<br>
-<a href="http://mbeoxfordjournalsorg/content/33/12/3065"><strong>Molecular Biology and Evolution</strong>&nbsp;(2016)</a></p>
+<a href="http://mbeoxfordjournalsorg/content/33/12/3065"><strong>Molecular Biology and Evolution</a></strong>&nbsp;(2016)</a></p>
 
 <p><strong>Strong selective sweeps on the X chromosome in the human-chimpanzee ancestor explain its low divergence</strong><br>
 Dutheil JY, <span style="text-decoration:underline;">Munch K</span>, Nam K, Mailund T, Schierup MH<br>
