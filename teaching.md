@@ -5,20 +5,22 @@ title: Teaching
 
 ## Course tools and resources
 
+* [Getting started on a data analysis project at BiRC](https://github.com/kaspermunch/birc-project)
+* [PopGen Dashboards]() (work in progress)
 * [Hudson and Wright-Fisher animators](http://tildeweb.au.dk/au81667/coalescent/)
 
 ## Bioinformatics and Programming
 
-* [Course catalog](https://kursuskatalog.au.dk/en/course/83382/Bioinformatics-and-Programming)
+* [Course description](https://kursuskatalog.au.dk/en/course/83382/Bioinformatics-and-Programming)
 
 ## Population Genomics
 
-* [Course catalog](https://kursuskatalog.au.dk/en/course/87461/Population-Genomics)
+* [Course description](https://kursuskatalog.au.dk/en/course/87461/Population-Genomics)
 * [GitHub page](https://github.com/kaspermunch/PopulationGenomicsCourse)
 
 ## Advanced topics in genomics
 
-* [Course catalog](https://kursuskatalog.au.dk/en/course/72459/Advanced-Topics-in-Genomics)
+* [Course description](https://kursuskatalog.au.dk/en/course/72459/Advanced-Topics-in-Genomics)
 
 ## Past undergraduate projects (Projects in Bioinformatics)
 
@@ -29,7 +31,7 @@ title: Teaching
 
 ## Past bachelor projects
 
-- Profiling circRNA in spermatogenesis
+- Differential circRNA expression
 
 ## Past master theses projects
 
