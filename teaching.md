@@ -18,22 +18,22 @@ The course introduces key concepts in population genomics from generation of pop
 
 ## Undergraduate project at BiRC
 
-Templage git project for a genetic data analysis project on the GenomeDK cluster:
+Templage git repository and HOWTO for a genetic data analysis project on the GenomeDK cluster:
 
 * [Getting started on a data analysis project at BiRC](https://github.com/kaspermunch/birc-project)
 
-Projects in Bioinformatics:
+**Past projects in Bioinformatics:**
 
 - A composite of multiple signals reveals signatures of positive selection in the 3p21.31 region of East Asians
 - Differential circRNA expression
 - Explorative analysis of X chromosome diversity in Sub-Saharan Africa populations
 - Analysis of positive selection in great ape evolution
 
-Bachelor projects
+**Past bachelor projects:**
 
 - Differential circRNA expression
 
-Master theses projects
+**Past master theses projects:**
 
 - Profiling circRNA in spermatogenesis
 
