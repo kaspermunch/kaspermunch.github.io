@@ -45,7 +45,7 @@ We make computational approaches available as web servers, scientific software, 
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/olive_baboon.jpg" /></div><div class="content">
-<h2>Science posts from the group</h2>
+<h2>Popular science</h2>
 We strive to present our findings in a way accessible to wider audience. <a href="popular_science.html">Read more here.</a>
 </div>
 </section>
