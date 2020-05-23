@@ -15,6 +15,11 @@ The course introduces key concepts in population genomics from generation of pop
 
 [Full course description](https://kursuskatalog.au.dk/en/course/87461/Population-Genomics), [GitHub page](https://github.com/kaspermunch/PopulationGenomicsCourse)
 
+## Interactive learning tools
+
+* [PopGen Dashboards]() (work in progress)
+* [Hudson and Wright-Fisher animators](http://tildeweb.au.dk/au81667/coalescent/)
+
 ## Undergraduate project at BiRC
 
 Templage git repository and HOWTO for a genetic data analysis project on the GenomeDK cluster:
@@ -30,7 +35,3 @@ Templage git repository and HOWTO for a genetic data analysis project on the Gen
 - Differential circRNA expression
 - Profiling circRNA in spermatogenesis
 
-## Interactive learning tools
-
-* [PopGen Dashboards]() (work in progress)
-* [Hudson and Wright-Fisher animators](http://tildeweb.au.dk/au81667/coalescent/)
