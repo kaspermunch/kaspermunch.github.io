@@ -6,9 +6,11 @@ layout: landing
 <div class="inner">
 <h2>{{ site.title }}</h2>
 <p>{{ site.description | markdownify }}</p>
+<!--
 	<ul class="actions special">
 		<li><a href="joinus.html" class="button special">Ph.D. position available</a></li>
 	</ul>
+-->
 </div>
 <a href="#one" class="more scrolly">Learn More</a>
 </section>
@@ -45,7 +47,7 @@ We make computational approaches available as web servers, scientific software, 
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/olive_baboon.jpg" /></div><div class="content">
-<h2>Science posts from the group</h2>
+<h2>Popular science</h2>
 We strive to present our findings in a way accessible to wider audience. <a href="popular_science.html">Read more here.</a>
 </div>
 </section>
