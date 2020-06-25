@@ -5,6 +5,10 @@ title: Publications
 
 ## Peer reviewed publications
 
+<p><strong>Genomic analysis of the domestication and post-Spanish conquest evolution of the llama and alpaca</strong><br>
+Fan R, Gu Z, Guang X, Marín JC, Varas V, Gonzalez B, Wheeler JC, Hu Y, Li E, Sun X, Yang X, Zhang C, Gao W, He J, <span style="text-decoration:underline;">Munch K</span>, Corbett-Detig R, Barbato M, Pan S, Zhan X, Bruford M, Dong C<br>
+<a href=""><strong>Genome Biology</strong>IN PRESS</a></p>
+
 <p><strong>Impact of mutation rate and selection at linked sites on DNA variation across the genomes of humans and other homininae</strong><br>
 Castellano D, Eyre-Walker A, <span style="text-decoration:underline;">Munch K</span><br>
 <a href="https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz215/5584269"><strong>Genome Biology and Evolution</strong> (2019)</a></p>
