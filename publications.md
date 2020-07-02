@@ -7,7 +7,7 @@ title: Publications
 
 <p><strong>Genomic analysis of the domestication and post-Spanish conquest evolution of the llama and alpaca</strong><br>
 Fan R, Gu Z, Guang X, Marín JC, Varas V, Gonzalez B, Wheeler JC, Hu Y, Li E, Sun X, Yang X, Zhang C, Gao W, He J, <span style="text-decoration:underline;">Munch K</span>, Corbett-Detig R, Barbato M, Pan S, Zhan X, Bruford M, Dong C<br>
-<a href=""><strong>Genome Biology</strong> <i>IN PRESS</i>  </a></p>
+<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02080-6"><strong>Genome Biology</strong> (2020) </a></p>
 
 <p><strong>Impact of mutation rate and selection at linked sites on DNA variation across the genomes of humans and other homininae</strong><br>
 Castellano D, Eyre-Walker A, <span style="text-decoration:underline;">Munch K</span><br>
