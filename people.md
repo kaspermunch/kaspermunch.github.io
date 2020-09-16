@@ -16,7 +16,7 @@ title: People
     <h3>PhD student: </h3>
 </header>
 
-<p><span class="image left"><img src="images/erik.png" /></span>Erik is a new PhD student in the group. He plans to work on how intragenomic confilics shape genome evolution and development of hybrid incompatibilties between diverging populations.</p>
+<p><span class="image left"><img src="images/erik.jpg" /></span>Erik is a new PhD student in the group. He plans to work on how intragenomic confilics shape genome evolution and development of hybrid incompatibilties between diverging populations.</p>
 
 ## Former members
 
