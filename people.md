@@ -13,14 +13,19 @@ title: People
 [kaspermunch@birc.au.dk](mailto:kaspermunch@birc.au.dk)
 
 <header>
+    <h3>PhD student: </h3>
+</header>
+
+<p><span class="image left"><img src="images/erik.png" /></span>Erik is a new PhD student in the group. He plans to work on how intragenomic confilics shape genome evolution and development of hybrid incompatibilties between diverging populations.</p>
+
+## Former members
+
+<header>
     <h3>MSc student: Tobias Røikjer</h3>
 </header>
 
 <p><span class="image left"><img src="images/tobias.png" /></span>Tobias works on a graph-based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute the joint distribution of the site frequency spectrum in both a single population and in an isolation -with-migration model.</p>
 
-<!-- [ORCID Profile](http://orcid.org/) -->
-
-## Former members
 
 <header>
     <h3>Postdoctoral researcher: David Castellano</h3>
