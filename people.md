@@ -14,7 +14,7 @@ title: People
 [kaspermunch@birc.au.dk](mailto:kaspermunch@birc.au.dk)
 
 <header>
-    <h3>PhD student: </h3>
+    <h3>Erik Fogh Sørensen</h3>
     <p>PhD student</p>
 </header>
 
