@@ -11,7 +11,7 @@ The course introduces programming and its practical applications in bioinformati
 
 ## Population Genomics
 
-The course introduces key concepts in population genomics from generation of population genetic data sets to the most common population genetic analyses and association studies. The first part of the course focuses on generation of population genetic data sets. The second part introduces the most common population genetic analyses and their theoretical background. Here topics include analysis of demography, population structure, recombination and selection. The last part of the course focus on applications of population genetic data sets for assoication studies in relation to human health.
+The course introduces key concepts in population genomics from generation of population genetic data sets to the most common population genetic analyses and association studies. The first part of the course focuses on generation of population genetic data sets. The second part introduces the most common population genetic analyses and their theoretical background. Here, topics include analysis of demography, population structure, recombination and selection. The last part of the course focus on applications of population genetic data sets for association studies in relation to human health.
 
 [Full course description](https://kursuskatalog.au.dk/en/course/87461/Population-Genomics), [GitHub page](https://github.com/kaspermunch/PopulationGenomicsCourse)
 
@@ -20,14 +20,15 @@ The course introduces key concepts in population genomics from generation of pop
 * [PopGen Dashboards]() (work in progress)
 * [Hudson and Wright-Fisher animators](http://tildeweb.au.dk/au81667/coalescent/)
 
-## Undergraduate project at BiRC
+## Student project at BiRC
 
 Templage git repository and HOWTO for a genetic data analysis project on the GenomeDK cluster:
 
 [Getting started on a data analysis project at BiRC](https://github.com/kaspermunch/birc-project)
 
-**Past undergraduate projects:**
+**Past student projects:**
 
+- Detection of Selection in the Tumour Suppressor Cluster 3p21.3
 - A composite of multiple signals reveals signatures of positive selection in the 3p21.31 region of East Asians
 - Differential circRNA expression
 - Explorative analysis of X chromosome diversity in Sub-Saharan Africa populations
